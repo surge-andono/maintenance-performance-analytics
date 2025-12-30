@@ -1,0 +1,1001 @@
+date,equipment_id,site,region,downtime_hours,repair_hours,failure_type,maintenance_cost,work_order_count
+2024-04-12,EQ-043,Banyuwangi,East,1.11,7.0,Operational,26388995.0,4
+2024-12-14,EQ-003,Banyuwangi,East,1.77,3.24,Hydraulic,64463003.0,1
+2024-09-27,EQ-033,Sulawesi,Central,4.2,4.21,Electrical,72931759.0,1
+2024-04-16,EQ-006,Kalimantan,East,0.16,9.23,Hydraulic,78131538.0,3
+2024-03-12,EQ-050,Kalimantan,West,4.71,6.31,Wear & Tear,22421724.0,1
+2024-07-07,EQ-010,Banyuwangi,West,5.06,3.38,Wear & Tear,71097316.0,2
+2024-01-21,EQ-005,Kalimantan,Central,17.59,11.64,Wear & Tear,29619132.0,4
+2024-04-12,EQ-023,Banyuwangi,West,5.89,8.87,Operational,13463041.0,2
+2024-05-01,EQ-010,Sulawesi,West,5.48,11.53,Mechanical,70251869.0,3
+2024-08-02,EQ-044,Banyuwangi,Central,13.71,5.7,Hydraulic,52707923.0,3
+2024-11-26,EQ-002,Kalimantan,West,4.13,6.23,Electrical,17354817.0,1
+2024-03-28,EQ-013,Sulawesi,West,5.78,10.88,Wear & Tear,37237344.0,1
+2024-04-09,EQ-040,Banyuwangi,West,9.84,6.78,Hydraulic,26544327.0,3
+2024-12-25,EQ-002,Banyuwangi,East,2.64,8.78,Wear & Tear,60259593.0,3
+2024-05-31,EQ-020,Sulawesi,Central,9.89,3.77,Wear & Tear,39006217.0,2
+2024-05-10,EQ-001,Sulawesi,Central,1.38,5.91,Electrical,79195996.0,2
+2024-05-29,EQ-037,Banyuwangi,Central,8.07,2.36,Operational,9105874.0,1
+2024-11-04,EQ-009,Kalimantan,East,8.11,3.27,Mechanical,31626145.0,2
+2024-09-14,EQ-017,Banyuwangi,East,3.62,1.01,Operational,41142513.0,1
+2024-12-09,EQ-009,Sulawesi,Central,4.34,1.43,Hydraulic,42735017.0,1
+2024-10-20,EQ-011,Banyuwangi,East,14.67,11.75,Operational,28695187.0,4
+2024-07-10,EQ-015,Sulawesi,Central,4.59,3.67,Hydraulic,59693019.0,1
+2024-10-03,EQ-024,Sulawesi,East,7.38,8.3,Hydraulic,70606031.0,2
+2024-06-09,EQ-038,Kalimantan,West,5.2,10.23,Mechanical,75403948.0,3
+2024-11-09,EQ-035,Sulawesi,West,2.85,7.06,Electrical,65382003.0,3
+2024-01-22,EQ-030,Sulawesi,Central,3.02,2.68,Mechanical,68793515.0,2
+2024-09-09,EQ-031,Kalimantan,East,6.68,9.01,Operational,46290898.0,3
+2024-08-23,EQ-049,Sulawesi,East,12.71,7.6,Hydraulic,66941617.0,1
+2024-12-10,EQ-005,Kalimantan,West,1.47,9.04,Wear & Tear,27762793.0,3
+2024-02-18,EQ-044,Kalimantan,West,13.94,9.47,Wear & Tear,34885907.0,2
+2024-02-28,EQ-050,Sulawesi,East,7.9,11.73,Hydraulic,28768476.0,3
+2024-06-18,EQ-014,Sulawesi,East,4.14,7.31,Mechanical,40054050.0,1
+2024-07-06,EQ-011,Banyuwangi,East,6.39,4.76,Electrical,26418471.0,1
+2024-09-27,EQ-009,Kalimantan,East,7.81,8.13,Mechanical,77120858.0,2
+2024-07-08,EQ-034,Banyuwangi,East,1.86,1.75,Hydraulic,28463347.0,2
+2024-06-23,EQ-012,Sulawesi,East,4.42,10.87,Hydraulic,12353340.0,2
+2024-02-20,EQ-035,Banyuwangi,Central,5.01,2.31,Electrical,44511287.0,4
+2024-12-29,EQ-035,Kalimantan,East,0.98,4.61,Operational,9282431.0,4
+2024-02-24,EQ-001,Banyuwangi,West,9.02,9.97,Operational,13290737.0,1
+2024-08-31,EQ-040,Kalimantan,Central,2.97,7.57,Electrical,21454204.0,4
+2024-11-15,EQ-022,Sulawesi,East,3.12,5.33,Operational,39826269.0,4
+2024-05-10,EQ-029,Sulawesi,West,4.69,6.21,Wear & Tear,37493820.0,3
+2024-11-02,EQ-008,Kalimantan,Central,6.94,10.4,Operational,64976890.0,4
+2024-05-14,EQ-011,Sulawesi,West,6.58,4.74,Operational,60460599.0,3
+2024-01-21,EQ-041,Sulawesi,East,5.19,10.57,Operational,36973872.0,2
+2024-11-24,EQ-037,Sulawesi,East,6.4,1.97,Wear & Tear,30027816.0,3
+2024-06-15,EQ-014,Sulawesi,East,2.71,9.54,Operational,28735159.0,3
+2024-09-30,EQ-030,Kalimantan,East,5.63,10.32,Wear & Tear,63049632.0,2
+2024-03-29,EQ-035,Banyuwangi,Central,7.44,3.0,Electrical,8905430.0,2
+2024-11-11,EQ-021,Banyuwangi,Central,3.07,5.73,Mechanical,5961624.0,1
+2024-01-14,EQ-037,Sulawesi,West,5.1,2.82,Electrical,64665829.0,1
+2024-08-29,EQ-005,Banyuwangi,East,7.56,8.77,Mechanical,40785978.0,1
+2024-09-21,EQ-019,Banyuwangi,West,4.68,6.89,Electrical,14816085.0,1
+2024-12-11,EQ-014,Sulawesi,Central,1.57,7.99,Mechanical,22667445.0,3
+2024-02-22,EQ-026,Sulawesi,East,12.56,3.16,Mechanical,74937796.0,3
+2024-12-05,EQ-004,Banyuwangi,East,11.07,3.33,Hydraulic,69462723.0,1
+2024-04-01,EQ-025,Kalimantan,Central,4.98,1.46,Mechanical,58233879.0,4
+2024-09-20,EQ-045,Sulawesi,Central,13.82,4.54,Mechanical,41166892.0,1
+2024-02-04,EQ-042,Kalimantan,Central,7.8,7.16,Hydraulic,44024272.0,4
+2024-07-24,EQ-025,Banyuwangi,Central,4.24,10.44,Operational,78143340.0,2
+2024-03-21,EQ-018,Sulawesi,Central,2.76,8.34,Operational,77432783.0,3
+2024-02-19,EQ-040,Kalimantan,East,1.87,5.79,Hydraulic,21145178.0,3
+2024-12-25,EQ-008,Sulawesi,Central,4.43,11.48,Wear & Tear,65832842.0,4
+2024-01-02,EQ-039,Banyuwangi,East,2.32,8.91,Mechanical,19793200.0,1
+2024-02-23,EQ-040,Kalimantan,East,2.51,11.23,Mechanical,21015311.0,3
+2024-04-15,EQ-014,Banyuwangi,Central,6.43,6.8,Hydraulic,55706978.0,4
+2024-09-16,EQ-032,Banyuwangi,Central,1.39,3.85,Hydraulic,35375082.0,2
+2024-11-05,EQ-038,Sulawesi,East,1.01,1.58,Wear & Tear,74865831.0,2
+2024-07-09,EQ-033,Kalimantan,Central,5.4,8.99,Operational,11675730.0,3
+2024-08-05,EQ-023,Banyuwangi,Central,7.64,2.33,Electrical,43364423.0,1
+2024-02-13,EQ-015,Banyuwangi,Central,6.75,4.33,Operational,73889115.0,4
+2024-06-10,EQ-033,Kalimantan,West,1.04,6.86,Mechanical,72808525.0,3
+2024-07-20,EQ-025,Banyuwangi,East,2.72,7.21,Hydraulic,16739691.0,2
+2024-09-26,EQ-017,Banyuwangi,West,3.02,7.61,Wear & Tear,32497828.0,1
+2024-12-16,EQ-033,Kalimantan,Central,1.11,2.83,Operational,51434105.0,4
+2024-10-30,EQ-047,Kalimantan,West,5.13,5.18,Wear & Tear,16954616.0,3
+2024-09-27,EQ-002,Kalimantan,Central,5.88,7.79,Operational,77601663.0,4
+2024-08-02,EQ-014,Kalimantan,West,4.3,11.67,Mechanical,73606200.0,1
+2024-09-08,EQ-040,Sulawesi,Central,1.09,9.0,Electrical,17521263.0,1
+2024-07-08,EQ-040,Kalimantan,West,17.29,11.15,Wear & Tear,14086660.0,2
+2024-10-22,EQ-039,Sulawesi,West,2.49,9.38,Wear & Tear,11405636.0,1
+2024-07-31,EQ-006,Sulawesi,West,9.7,7.51,Electrical,73208275.0,3
+2024-07-26,EQ-006,Sulawesi,East,12.7,3.11,Wear & Tear,19521786.0,4
+2024-08-24,EQ-003,Banyuwangi,West,3.59,8.33,Wear & Tear,36221370.0,1
+2024-12-03,EQ-007,Sulawesi,East,6.76,7.86,Operational,38663852.0,1
+2024-02-22,EQ-008,Sulawesi,Central,1.42,7.63,Operational,49925828.0,3
+2024-10-06,EQ-042,Banyuwangi,West,3.71,6.39,Electrical,10380151.0,4
+2024-08-04,EQ-015,Banyuwangi,Central,6.92,6.82,Mechanical,22006896.0,4
+2024-09-08,EQ-047,Banyuwangi,Central,5.04,4.68,Wear & Tear,74861779.0,2
+2024-07-06,EQ-029,Kalimantan,West,8.28,6.71,Mechanical,73130758.0,2
+2024-02-10,EQ-033,Banyuwangi,East,3.37,3.17,Electrical,63596799.0,4
+2024-06-05,EQ-030,Banyuwangi,West,9.7,9.86,Electrical,6455093.0,3
+2024-01-15,EQ-039,Sulawesi,Central,2.14,3.04,Operational,29525508.0,3
+2024-10-27,EQ-027,Banyuwangi,Central,6.82,1.93,Wear & Tear,52096905.0,2
+2024-03-05,EQ-036,Kalimantan,West,3.09,5.8,Hydraulic,25639266.0,1
+2024-12-10,EQ-029,Banyuwangi,East,0.92,8.24,Electrical,73219002.0,3
+2024-11-22,EQ-038,Kalimantan,East,8.18,5.81,Wear & Tear,52541710.0,1
+2024-01-09,EQ-033,Banyuwangi,Central,2.67,4.04,Mechanical,10393004.0,3
+2024-12-09,EQ-037,Banyuwangi,Central,1.99,7.14,Operational,73175419.0,4
+2024-05-08,EQ-027,Banyuwangi,East,11.35,4.82,Mechanical,76832499.0,2
+2024-05-15,EQ-033,Banyuwangi,West,8.9,11.26,Electrical,10828431.0,1
+2024-03-03,EQ-004,Kalimantan,Central,1.91,11.15,Electrical,44927018.0,1
+2024-05-18,EQ-022,Kalimantan,East,1.65,6.53,Mechanical,27752321.0,4
+2024-03-21,EQ-002,Sulawesi,Central,3.42,4.61,Electrical,34462931.0,3
+2024-06-11,EQ-010,Kalimantan,West,1.77,9.11,Wear & Tear,18473841.0,1
+2024-10-15,EQ-005,Banyuwangi,East,13.05,1.4,Electrical,48355408.0,3
+2024-09-17,EQ-010,Sulawesi,Central,0.86,6.22,Operational,76848451.0,4
+2024-08-18,EQ-033,Sulawesi,West,15.73,4.7,Wear & Tear,42730445.0,2
+2024-02-10,EQ-038,Sulawesi,Central,6.64,11.13,Hydraulic,11218594.0,1
+2024-01-28,EQ-013,Banyuwangi,West,7.54,1.13,Electrical,51500100.0,3
+2024-05-14,EQ-031,Kalimantan,West,5.42,7.08,Electrical,30516725.0,1
+2024-07-19,EQ-047,Banyuwangi,East,1.03,9.15,Operational,69194389.0,3
+2024-11-23,EQ-036,Sulawesi,West,8.74,6.34,Operational,37600861.0,3
+2024-09-24,EQ-045,Banyuwangi,Central,5.13,1.94,Mechanical,19462971.0,3
+2024-02-02,EQ-024,Banyuwangi,West,2.14,11.7,Mechanical,19332922.0,4
+2024-02-17,EQ-015,Kalimantan,West,10.47,6.7,Mechanical,62657314.0,2
+2024-03-02,EQ-029,Kalimantan,East,9.93,7.76,Operational,24919070.0,1
+2024-08-03,EQ-008,Sulawesi,West,10.5,3.6,Mechanical,62542505.0,2
+2024-10-19,EQ-005,Banyuwangi,West,9.5,6.32,Mechanical,20441548.0,3
+2024-04-08,EQ-029,Banyuwangi,Central,3.2,5.72,Hydraulic,29126478.0,3
+2024-06-20,EQ-047,Kalimantan,East,7.4,1.82,Mechanical,39911523.0,2
+2024-12-25,EQ-004,Banyuwangi,East,10.32,2.17,Electrical,75739689.0,2
+2024-08-01,EQ-012,Banyuwangi,East,9.58,10.21,Operational,74879857.0,1
+2024-02-04,EQ-045,Banyuwangi,West,0.28,3.64,Wear & Tear,20515391.0,3
+2024-08-14,EQ-002,Kalimantan,East,4.72,3.14,Hydraulic,31866428.0,2
+2024-04-10,EQ-027,Sulawesi,West,2.72,6.55,Operational,16204954.0,4
+2024-05-10,EQ-031,Sulawesi,West,12.94,9.46,Operational,43248881.0,3
+2024-09-13,EQ-036,Banyuwangi,Central,4.77,1.68,Electrical,39543691.0,3
+2024-01-05,EQ-036,Sulawesi,Central,6.98,7.34,Mechanical,72557012.0,1
+2024-08-05,EQ-026,Kalimantan,Central,5.79,2.31,Electrical,74750403.0,4
+2024-09-11,EQ-043,Kalimantan,Central,12.05,1.4,Mechanical,33767554.0,1
+2024-12-24,EQ-027,Sulawesi,Central,15.87,1.58,Mechanical,41880346.0,4
+2024-10-09,EQ-005,Sulawesi,West,5.16,10.18,Operational,72217719.0,1
+2024-07-25,EQ-020,Banyuwangi,West,6.0,2.3,Mechanical,65503086.0,4
+2024-01-15,EQ-011,Sulawesi,East,12.52,1.5,Hydraulic,5274223.0,4
+2024-12-11,EQ-010,Banyuwangi,West,1.8,5.82,Hydraulic,29004467.0,4
+2024-02-11,EQ-040,Banyuwangi,West,2.02,10.28,Hydraulic,36633068.0,2
+2024-06-27,EQ-038,Kalimantan,Central,2.88,3.89,Operational,22228721.0,3
+2024-03-03,EQ-006,Kalimantan,West,8.63,5.64,Electrical,19967871.0,4
+2024-12-17,EQ-008,Kalimantan,Central,5.28,1.44,Wear & Tear,7833838.0,2
+2024-08-18,EQ-023,Kalimantan,East,2.91,5.94,Mechanical,53252729.0,2
+2024-08-28,EQ-047,Sulawesi,East,11.57,7.35,Wear & Tear,24688272.0,1
+2024-02-21,EQ-026,Kalimantan,West,1.13,7.28,Electrical,8926038.0,3
+2024-04-05,EQ-046,Sulawesi,East,2.79,4.66,Electrical,22323448.0,3
+2024-08-09,EQ-043,Kalimantan,West,4.44,4.47,Operational,65143546.0,1
+2024-08-18,EQ-012,Sulawesi,East,15.82,2.17,Hydraulic,68861689.0,3
+2024-08-24,EQ-026,Banyuwangi,Central,2.86,5.03,Hydraulic,41229968.0,1
+2024-05-22,EQ-013,Sulawesi,Central,7.4,2.09,Electrical,36205300.0,2
+2024-06-19,EQ-040,Sulawesi,Central,4.43,9.43,Operational,78339027.0,2
+2024-01-29,EQ-018,Kalimantan,Central,1.67,11.63,Operational,20042349.0,4
+2024-02-05,EQ-025,Sulawesi,West,7.3,11.67,Mechanical,21151946.0,1
+2024-01-13,EQ-033,Banyuwangi,East,3.94,10.52,Hydraulic,26890038.0,2
+2024-06-08,EQ-047,Banyuwangi,West,3.22,7.61,Electrical,17956799.0,2
+2024-11-22,EQ-040,Kalimantan,Central,1.42,8.71,Wear & Tear,33452420.0,1
+2024-07-05,EQ-043,Banyuwangi,West,5.31,4.14,Hydraulic,73312567.0,2
+2024-08-30,EQ-012,Sulawesi,East,13.45,7.94,Mechanical,51151088.0,3
+2024-03-26,EQ-044,Banyuwangi,West,2.98,6.01,Operational,35895991.0,2
+2024-10-10,EQ-036,Kalimantan,East,1.82,6.3,Electrical,75080810.0,1
+2024-03-06,EQ-048,Sulawesi,West,0.93,9.34,Hydraulic,8634817.0,3
+2024-06-18,EQ-004,Kalimantan,East,0.83,4.1,Wear & Tear,20770713.0,3
+2024-02-14,EQ-005,Sulawesi,East,4.52,4.5,Mechanical,47441645.0,2
+2024-03-02,EQ-037,Banyuwangi,Central,5.35,11.17,Mechanical,51166447.0,4
+2024-05-13,EQ-008,Kalimantan,East,6.7,1.62,Hydraulic,7966813.0,3
+2024-10-10,EQ-042,Kalimantan,Central,4.68,6.34,Wear & Tear,35227907.0,1
+2024-01-28,EQ-049,Sulawesi,Central,5.75,11.04,Mechanical,53686547.0,4
+2024-04-17,EQ-028,Kalimantan,Central,13.34,7.71,Electrical,57355291.0,4
+2024-02-13,EQ-031,Sulawesi,West,11.56,7.01,Mechanical,52860493.0,3
+2024-12-05,EQ-009,Sulawesi,West,11.17,3.75,Wear & Tear,29042242.0,2
+2024-10-12,EQ-029,Sulawesi,West,10.04,4.78,Operational,12014009.0,4
+2024-11-26,EQ-014,Sulawesi,West,7.99,10.37,Operational,37033433.0,2
+2024-05-07,EQ-040,Banyuwangi,East,1.1,7.15,Hydraulic,14656583.0,3
+2024-12-13,EQ-041,Sulawesi,East,4.21,6.66,Wear & Tear,76071774.0,1
+2024-08-18,EQ-022,Kalimantan,West,6.15,2.1,Mechanical,40637815.0,4
+2024-07-08,EQ-011,Banyuwangi,East,2.34,1.18,Mechanical,28794438.0,1
+2024-08-12,EQ-023,Kalimantan,East,14.86,11.6,Operational,62472805.0,2
+2024-10-09,EQ-001,Banyuwangi,Central,3.84,5.15,Operational,42346144.0,2
+2024-04-30,EQ-046,Sulawesi,Central,0.98,7.64,Electrical,28252552.0,1
+2024-04-25,EQ-037,Banyuwangi,Central,3.65,1.88,Operational,65897581.0,3
+2024-08-20,EQ-021,Banyuwangi,Central,6.81,8.51,Electrical,70036411.0,3
+2024-09-15,EQ-026,Kalimantan,East,2.34,11.26,Mechanical,55475612.0,4
+2024-12-24,EQ-046,Kalimantan,West,4.47,7.33,Electrical,8522332.0,4
+2024-07-16,EQ-036,Sulawesi,East,1.0,2.39,Electrical,47474216.0,3
+2024-05-16,EQ-023,Banyuwangi,East,3.49,7.4,Hydraulic,62247118.0,3
+2024-11-13,EQ-001,Banyuwangi,East,5.06,9.43,Operational,15237726.0,1
+2024-06-13,EQ-040,Banyuwangi,Central,4.67,5.47,Electrical,22150306.0,2
+2024-08-12,EQ-015,Sulawesi,Central,8.82,10.68,Mechanical,71187133.0,2
+2024-11-02,EQ-021,Sulawesi,Central,2.1,8.14,Wear & Tear,6509129.0,4
+2024-08-21,EQ-047,Sulawesi,West,6.52,10.89,Electrical,61454535.0,3
+2024-06-20,EQ-009,Sulawesi,East,7.54,7.86,Operational,40532997.0,1
+2024-05-31,EQ-009,Sulawesi,West,2.75,2.44,Hydraulic,38507912.0,4
+2024-11-10,EQ-010,Kalimantan,Central,2.33,4.41,Mechanical,5532240.0,1
+2024-06-08,EQ-026,Banyuwangi,West,14.94,3.22,Hydraulic,66454867.0,3
+2024-04-05,EQ-041,Banyuwangi,East,3.92,11.0,Wear & Tear,31986868.0,3
+2024-08-20,EQ-035,Banyuwangi,East,6.75,9.36,Electrical,45557422.0,3
+2024-06-28,EQ-025,Banyuwangi,Central,6.97,8.44,Electrical,55797551.0,2
+2024-04-22,EQ-026,Banyuwangi,Central,1.3,4.31,Operational,57697218.0,3
+2024-11-13,EQ-011,Banyuwangi,West,5.84,3.02,Electrical,76698504.0,4
+2024-02-21,EQ-038,Banyuwangi,Central,5.62,9.32,Mechanical,44850496.0,2
+2024-09-24,EQ-002,Banyuwangi,Central,14.99,6.22,Wear & Tear,34978966.0,1
+2024-10-21,EQ-007,Kalimantan,East,5.62,3.48,Hydraulic,76527772.0,4
+2024-04-22,EQ-018,Banyuwangi,Central,8.59,7.78,Wear & Tear,53158268.0,4
+2024-04-10,EQ-027,Kalimantan,Central,8.84,1.44,Electrical,27361277.0,1
+2024-04-22,EQ-034,Sulawesi,East,4.03,4.59,Hydraulic,14484818.0,2
+2024-03-21,EQ-027,Banyuwangi,East,18.72,6.15,Operational,68191588.0,4
+2024-07-05,EQ-017,Sulawesi,West,2.62,2.63,Wear & Tear,32163620.0,4
+2024-04-22,EQ-043,Sulawesi,Central,0.99,11.83,Hydraulic,54535229.0,4
+2024-01-02,EQ-044,Sulawesi,East,3.36,3.3,Hydraulic,40311231.0,2
+2024-05-09,EQ-024,Kalimantan,West,0.8,2.43,Hydraulic,19919733.0,2
+2024-08-07,EQ-025,Sulawesi,West,2.77,3.24,Mechanical,50126496.0,2
+2024-02-23,EQ-007,Sulawesi,Central,5.02,9.46,Wear & Tear,9551230.0,4
+2024-12-08,EQ-006,Sulawesi,Central,6.04,5.68,Hydraulic,36000684.0,3
+2024-08-11,EQ-024,Banyuwangi,West,3.68,7.22,Wear & Tear,45996120.0,1
+2024-08-12,EQ-033,Banyuwangi,East,2.75,1.23,Hydraulic,37703523.0,3
+2024-05-05,EQ-049,Kalimantan,West,3.33,1.38,Operational,61150413.0,2
+2024-05-09,EQ-029,Kalimantan,Central,7.41,5.9,Operational,67094372.0,4
+2024-02-22,EQ-043,Banyuwangi,East,1.96,9.98,Operational,62843231.0,4
+2024-06-20,EQ-022,Kalimantan,East,2.76,10.74,Electrical,7910971.0,3
+2024-08-05,EQ-026,Banyuwangi,West,6.39,1.95,Hydraulic,19559658.0,3
+2024-06-08,EQ-028,Sulawesi,Central,5.4,6.92,Electrical,45245563.0,1
+2024-07-16,EQ-050,Sulawesi,West,0.93,11.05,Wear & Tear,75111653.0,4
+2024-09-03,EQ-021,Kalimantan,West,10.26,5.27,Electrical,67621758.0,3
+2024-11-19,EQ-049,Banyuwangi,West,3.4,10.13,Wear & Tear,68190088.0,1
+2024-07-21,EQ-007,Banyuwangi,East,1.75,2.47,Wear & Tear,27740615.0,2
+2024-07-02,EQ-017,Kalimantan,East,1.36,11.29,Wear & Tear,37208592.0,3
+2024-05-02,EQ-020,Banyuwangi,Central,10.36,9.27,Electrical,40302946.0,2
+2024-09-11,EQ-041,Sulawesi,Central,0.45,11.35,Hydraulic,16802869.0,1
+2024-10-20,EQ-049,Kalimantan,West,6.8,8.44,Electrical,7330110.0,2
+2024-10-06,EQ-020,Kalimantan,West,9.05,5.0,Hydraulic,76017717.0,4
+2024-11-20,EQ-022,Banyuwangi,West,3.64,11.32,Hydraulic,23053444.0,4
+2024-04-07,EQ-028,Kalimantan,Central,14.04,4.03,Wear & Tear,22996168.0,2
+2024-07-16,EQ-040,Banyuwangi,East,2.07,4.65,Electrical,11253429.0,4
+2024-08-27,EQ-049,Banyuwangi,East,7.37,8.71,Hydraulic,74638081.0,1
+2024-05-23,EQ-007,Banyuwangi,West,5.45,9.42,Operational,48480284.0,4
+2024-04-06,EQ-001,Banyuwangi,West,15.26,11.22,Hydraulic,55027764.0,2
+2024-07-19,EQ-032,Banyuwangi,West,3.99,3.25,Operational,73368267.0,2
+2024-05-03,EQ-013,Kalimantan,West,6.83,9.78,Electrical,30921513.0,2
+2024-07-05,EQ-030,Sulawesi,Central,5.42,9.12,Electrical,51613048.0,3
+2024-11-21,EQ-023,Sulawesi,East,1.11,1.7,Electrical,7909959.0,2
+2024-12-14,EQ-019,Kalimantan,West,4.46,5.26,Hydraulic,19007940.0,1
+2024-09-15,EQ-032,Kalimantan,Central,3.04,4.11,Mechanical,67343435.0,4
+2024-05-27,EQ-030,Sulawesi,West,5.45,4.35,Hydraulic,62507627.0,4
+2024-09-08,EQ-029,Sulawesi,West,6.93,11.81,Hydraulic,31298202.0,3
+2024-12-11,EQ-049,Sulawesi,East,12.2,8.07,Wear & Tear,33260797.0,3
+2024-05-26,EQ-045,Sulawesi,West,0.32,8.89,Wear & Tear,45016583.0,1
+2024-05-27,EQ-029,Sulawesi,East,5.0,11.74,Hydraulic,5018075.0,2
+2024-12-17,EQ-030,Banyuwangi,East,1.47,5.15,Operational,23093325.0,3
+2024-07-17,EQ-016,Kalimantan,East,7.44,9.82,Wear & Tear,20617386.0,4
+2024-11-03,EQ-040,Banyuwangi,Central,19.46,5.78,Hydraulic,23786221.0,3
+2024-05-07,EQ-019,Sulawesi,Central,3.81,10.56,Mechanical,65442938.0,3
+2024-02-08,EQ-018,Sulawesi,East,2.52,2.99,Operational,25975539.0,2
+2024-12-03,EQ-001,Sulawesi,West,3.38,11.42,Electrical,19364099.0,3
+2024-12-25,EQ-014,Banyuwangi,East,1.49,3.41,Hydraulic,42819760.0,1
+2024-05-08,EQ-047,Banyuwangi,West,0.14,4.59,Hydraulic,69923378.0,4
+2024-09-23,EQ-050,Sulawesi,East,6.07,9.32,Operational,23101228.0,2
+2024-05-30,EQ-002,Banyuwangi,West,4.83,5.33,Wear & Tear,10890218.0,4
+2024-10-24,EQ-028,Banyuwangi,Central,2.58,7.69,Wear & Tear,31730355.0,1
+2024-04-08,EQ-049,Sulawesi,West,1.84,5.89,Wear & Tear,61073887.0,1
+2024-09-19,EQ-050,Banyuwangi,East,9.0,9.17,Electrical,46301791.0,3
+2024-09-08,EQ-030,Kalimantan,Central,11.53,3.51,Operational,66259503.0,3
+2024-05-23,EQ-038,Kalimantan,West,5.53,1.64,Operational,76969411.0,3
+2024-12-11,EQ-004,Kalimantan,West,0.49,4.3,Wear & Tear,64449686.0,4
+2024-04-21,EQ-001,Kalimantan,West,4.31,6.22,Wear & Tear,50285231.0,1
+2024-02-29,EQ-008,Sulawesi,West,6.41,2.85,Mechanical,42000619.0,2
+2024-01-02,EQ-029,Sulawesi,West,3.93,4.9,Mechanical,8005181.0,3
+2024-10-30,EQ-039,Sulawesi,Central,4.32,5.4,Hydraulic,78824148.0,4
+2024-09-10,EQ-003,Kalimantan,Central,2.75,1.63,Hydraulic,33761084.0,3
+2024-05-19,EQ-032,Kalimantan,Central,4.01,7.42,Operational,16417116.0,1
+2024-02-06,EQ-010,Banyuwangi,Central,9.6,10.73,Operational,55003164.0,2
+2024-06-08,EQ-010,Banyuwangi,East,5.78,2.67,Electrical,26321622.0,1
+2024-01-09,EQ-019,Kalimantan,Central,3.13,7.58,Electrical,48933370.0,4
+2024-08-20,EQ-046,Kalimantan,West,3.94,8.31,Mechanical,49007593.0,3
+2024-04-08,EQ-034,Kalimantan,West,12.24,5.61,Hydraulic,38429737.0,1
+2024-05-26,EQ-033,Kalimantan,Central,1.88,8.71,Mechanical,67708896.0,4
+2024-10-30,EQ-023,Banyuwangi,West,2.78,5.52,Mechanical,24872530.0,3
+2024-07-26,EQ-028,Kalimantan,Central,4.31,6.55,Hydraulic,38647444.0,2
+2024-05-10,EQ-032,Banyuwangi,West,2.97,1.08,Electrical,45326910.0,1
+2024-05-31,EQ-050,Kalimantan,East,11.84,8.61,Hydraulic,54771854.0,3
+2024-02-23,EQ-007,Kalimantan,East,9.76,8.27,Wear & Tear,63797889.0,3
+2024-04-29,EQ-029,Kalimantan,Central,4.23,1.42,Wear & Tear,34610546.0,3
+2024-06-09,EQ-008,Banyuwangi,Central,18.43,5.05,Wear & Tear,53453521.0,3
+2024-04-25,EQ-001,Banyuwangi,Central,6.11,11.77,Operational,16295821.0,1
+2024-03-15,EQ-003,Sulawesi,West,13.45,5.63,Electrical,74948608.0,3
+2024-04-22,EQ-024,Kalimantan,Central,12.59,6.52,Electrical,33729410.0,4
+2024-04-13,EQ-023,Sulawesi,East,6.78,11.01,Operational,59714107.0,1
+2024-12-05,EQ-008,Sulawesi,West,1.75,8.89,Mechanical,6525581.0,3
+2024-09-10,EQ-047,Banyuwangi,Central,5.23,7.4,Wear & Tear,20389036.0,1
+2024-08-14,EQ-037,Banyuwangi,West,2.7,9.78,Wear & Tear,41531191.0,4
+2024-04-21,EQ-003,Sulawesi,West,7.34,10.51,Mechanical,70868935.0,4
+2024-04-08,EQ-033,Kalimantan,Central,6.51,6.03,Hydraulic,44544136.0,1
+2024-06-01,EQ-028,Banyuwangi,West,5.89,6.23,Hydraulic,74740286.0,3
+2024-12-14,EQ-047,Kalimantan,East,8.69,5.25,Electrical,41284767.0,3
+2024-12-03,EQ-008,Kalimantan,East,6.3,11.63,Operational,41783682.0,4
+2024-07-12,EQ-034,Sulawesi,West,4.65,8.67,Electrical,13981009.0,3
+2024-11-05,EQ-035,Sulawesi,Central,1.61,1.92,Hydraulic,65199218.0,4
+2024-06-11,EQ-032,Sulawesi,West,2.93,10.49,Mechanical,23522406.0,3
+2024-07-26,EQ-024,Sulawesi,East,2.02,6.29,Electrical,72470937.0,4
+2024-06-17,EQ-014,Banyuwangi,West,9.07,1.76,Wear & Tear,73311817.0,2
+2024-06-09,EQ-032,Banyuwangi,West,4.42,7.05,Wear & Tear,75748258.0,3
+2024-03-08,EQ-046,Sulawesi,East,5.91,5.59,Mechanical,44017287.0,3
+2024-10-15,EQ-043,Banyuwangi,West,3.36,10.66,Hydraulic,55782034.0,3
+2024-10-03,EQ-016,Sulawesi,West,10.64,3.24,Wear & Tear,63388691.0,1
+2024-10-30,EQ-004,Kalimantan,Central,7.69,10.09,Wear & Tear,14826096.0,3
+2024-05-14,EQ-037,Kalimantan,Central,5.39,7.13,Operational,50071790.0,1
+2024-07-13,EQ-021,Kalimantan,East,4.8,1.6,Electrical,7572343.0,1
+2024-05-07,EQ-014,Sulawesi,East,2.46,11.69,Hydraulic,42317456.0,4
+2024-02-02,EQ-031,Kalimantan,East,2.99,6.64,Electrical,16613201.0,1
+2024-06-24,EQ-048,Banyuwangi,Central,1.11,4.2,Hydraulic,18719219.0,1
+2024-01-22,EQ-018,Kalimantan,East,7.8,6.16,Wear & Tear,32378568.0,2
+2024-08-25,EQ-007,Kalimantan,East,8.3,10.44,Operational,37432788.0,3
+2024-06-06,EQ-010,Kalimantan,East,8.56,4.35,Electrical,51737932.0,1
+2024-02-07,EQ-007,Banyuwangi,Central,2.15,3.12,Wear & Tear,10582131.0,3
+2024-08-17,EQ-033,Sulawesi,West,12.87,2.42,Hydraulic,42776882.0,1
+2024-12-30,EQ-023,Banyuwangi,East,3.82,4.28,Electrical,18696885.0,4
+2024-02-20,EQ-021,Sulawesi,West,7.16,9.58,Electrical,48048138.0,2
+2024-09-20,EQ-019,Sulawesi,East,1.58,6.19,Wear & Tear,52805346.0,1
+2024-10-09,EQ-048,Kalimantan,West,11.0,3.5,Electrical,46753194.0,3
+2024-01-27,EQ-019,Sulawesi,Central,8.07,2.83,Operational,60372163.0,4
+2024-08-13,EQ-036,Banyuwangi,Central,3.95,4.66,Operational,30170693.0,3
+2024-10-03,EQ-029,Banyuwangi,East,3.39,11.34,Wear & Tear,62382994.0,4
+2024-10-12,EQ-018,Sulawesi,West,7.94,4.77,Hydraulic,37457531.0,2
+2024-04-06,EQ-002,Kalimantan,Central,10.98,11.87,Wear & Tear,41313837.0,4
+2024-10-10,EQ-001,Kalimantan,East,2.47,6.34,Operational,53607660.0,3
+2024-11-12,EQ-047,Banyuwangi,East,4.63,2.97,Mechanical,6376879.0,3
+2024-10-30,EQ-005,Kalimantan,Central,3.29,10.8,Mechanical,54049567.0,1
+2024-05-26,EQ-020,Sulawesi,Central,11.33,6.06,Electrical,51393886.0,4
+2024-01-04,EQ-011,Sulawesi,East,3.02,8.81,Electrical,28238534.0,3
+2024-02-04,EQ-042,Banyuwangi,West,1.64,11.82,Mechanical,11434571.0,1
+2024-07-10,EQ-002,Sulawesi,West,8.19,1.55,Operational,11820159.0,2
+2024-02-18,EQ-003,Banyuwangi,West,12.16,2.06,Electrical,74241781.0,3
+2024-01-17,EQ-023,Sulawesi,East,7.86,8.93,Wear & Tear,56695949.0,1
+2024-06-20,EQ-012,Banyuwangi,Central,10.4,4.1,Wear & Tear,14532696.0,3
+2024-08-07,EQ-020,Kalimantan,East,17.61,3.03,Operational,31754238.0,4
+2024-06-06,EQ-005,Sulawesi,Central,15.34,1.43,Electrical,49436225.0,1
+2024-02-15,EQ-037,Sulawesi,West,15.46,1.24,Wear & Tear,67667878.0,4
+2024-01-06,EQ-038,Banyuwangi,West,3.33,9.52,Electrical,8274570.0,2
+2024-04-08,EQ-030,Banyuwangi,Central,8.25,2.48,Electrical,22747485.0,4
+2024-08-20,EQ-009,Sulawesi,Central,5.64,6.14,Wear & Tear,71731174.0,1
+2024-02-06,EQ-034,Banyuwangi,East,5.57,7.66,Mechanical,5687416.0,3
+2024-10-06,EQ-044,Sulawesi,West,10.7,5.71,Wear & Tear,20104933.0,1
+2024-12-14,EQ-035,Kalimantan,East,7.44,1.3,Operational,76926813.0,4
+2024-10-28,EQ-022,Banyuwangi,East,4.75,9.62,Hydraulic,51005138.0,4
+2024-06-29,EQ-044,Sulawesi,East,2.87,1.12,Wear & Tear,24625352.0,3
+2024-04-04,EQ-024,Kalimantan,West,7.49,9.38,Electrical,10024332.0,2
+2024-04-08,EQ-017,Kalimantan,East,4.4,10.83,Electrical,7114351.0,1
+2024-07-06,EQ-010,Sulawesi,East,10.67,5.76,Wear & Tear,23355881.0,3
+2024-04-25,EQ-030,Banyuwangi,East,10.44,6.89,Hydraulic,71111436.0,3
+2024-07-09,EQ-046,Sulawesi,East,6.73,6.25,Wear & Tear,36193524.0,3
+2024-09-09,EQ-023,Kalimantan,East,1.99,5.28,Hydraulic,59025003.0,1
+2024-06-09,EQ-032,Sulawesi,East,3.61,10.76,Hydraulic,73871378.0,1
+2024-09-12,EQ-017,Banyuwangi,West,15.88,10.83,Operational,35603035.0,1
+2024-11-18,EQ-050,Kalimantan,East,7.31,4.69,Electrical,19345803.0,2
+2024-05-07,EQ-017,Sulawesi,Central,12.13,7.77,Electrical,43783845.0,3
+2024-01-18,EQ-014,Banyuwangi,East,2.08,11.2,Hydraulic,73106277.0,4
+2024-10-07,EQ-009,Kalimantan,East,28.71,11.58,Electrical,65328081.0,4
+2024-08-10,EQ-040,Banyuwangi,West,0.94,6.6,Mechanical,9937238.0,3
+2024-02-23,EQ-002,Kalimantan,West,7.39,5.98,Hydraulic,56942960.0,4
+2024-02-27,EQ-045,Sulawesi,Central,0.84,4.07,Electrical,47892314.0,2
+2024-11-18,EQ-025,Banyuwangi,Central,10.67,11.55,Mechanical,73059738.0,2
+2024-12-25,EQ-039,Kalimantan,West,2.48,2.57,Operational,14186106.0,1
+2024-06-22,EQ-009,Banyuwangi,West,4.44,7.38,Electrical,45052708.0,1
+2024-10-06,EQ-022,Banyuwangi,East,6.4,4.11,Mechanical,70959702.0,1
+2024-04-23,EQ-043,Sulawesi,West,8.78,4.07,Wear & Tear,35751784.0,1
+2024-10-14,EQ-046,Banyuwangi,Central,4.38,5.45,Wear & Tear,41149619.0,1
+2024-12-07,EQ-004,Kalimantan,East,5.87,11.99,Mechanical,10284551.0,4
+2024-05-30,EQ-026,Kalimantan,Central,6.2,1.6,Hydraulic,25860773.0,4
+2024-05-06,EQ-029,Kalimantan,East,5.3,7.36,Hydraulic,29337999.0,1
+2024-06-03,EQ-045,Kalimantan,West,4.33,1.91,Electrical,75884184.0,2
+2024-09-29,EQ-034,Sulawesi,Central,3.35,2.7,Wear & Tear,26200052.0,4
+2024-04-13,EQ-023,Banyuwangi,East,6.45,5.84,Hydraulic,39565155.0,2
+2024-10-25,EQ-037,Sulawesi,East,6.29,6.62,Hydraulic,55347832.0,2
+2024-09-02,EQ-011,Banyuwangi,West,2.84,3.85,Wear & Tear,17163753.0,3
+2024-06-24,EQ-006,Banyuwangi,West,4.34,4.48,Operational,41483179.0,3
+2024-02-08,EQ-018,Banyuwangi,West,0.85,1.96,Hydraulic,60390428.0,1
+2024-06-18,EQ-021,Sulawesi,Central,4.16,4.34,Mechanical,70014141.0,2
+2024-09-03,EQ-042,Banyuwangi,East,0.88,11.63,Electrical,51969446.0,4
+2024-01-26,EQ-036,Sulawesi,West,3.41,11.39,Hydraulic,55179014.0,3
+2024-12-20,EQ-041,Kalimantan,Central,2.01,4.68,Hydraulic,14471260.0,3
+2024-11-01,EQ-038,Kalimantan,Central,2.59,7.28,Operational,75933237.0,2
+2024-01-13,EQ-034,Banyuwangi,Central,12.4,11.01,Mechanical,14943056.0,3
+2024-11-11,EQ-017,Sulawesi,West,1.76,1.07,Electrical,63100470.0,3
+2024-11-08,EQ-037,Kalimantan,West,3.67,9.92,Hydraulic,24861224.0,4
+2024-02-05,EQ-025,Sulawesi,East,6.4,11.43,Electrical,75019486.0,2
+2024-06-21,EQ-038,Sulawesi,East,0.64,2.0,Wear & Tear,58996965.0,3
+2024-01-20,EQ-012,Banyuwangi,West,4.44,2.78,Hydraulic,61536028.0,2
+2024-11-16,EQ-023,Kalimantan,Central,5.97,11.57,Hydraulic,21429438.0,3
+2024-09-20,EQ-042,Banyuwangi,Central,1.91,6.91,Wear & Tear,38227998.0,4
+2024-05-21,EQ-022,Banyuwangi,Central,1.26,1.16,Operational,51335990.0,2
+2024-05-22,EQ-021,Kalimantan,East,8.68,3.83,Hydraulic,62748021.0,3
+2024-04-01,EQ-027,Kalimantan,Central,0.68,5.95,Electrical,12796953.0,4
+2024-12-19,EQ-031,Sulawesi,East,3.62,8.62,Mechanical,77177399.0,3
+2024-11-17,EQ-006,Kalimantan,East,1.67,9.06,Electrical,71766550.0,2
+2024-10-14,EQ-027,Sulawesi,Central,0.32,11.95,Operational,25276144.0,3
+2024-08-02,EQ-040,Sulawesi,Central,10.77,4.16,Mechanical,66707018.0,2
+2024-12-07,EQ-034,Sulawesi,West,8.13,6.92,Electrical,43874294.0,2
+2024-02-20,EQ-012,Kalimantan,West,11.4,6.87,Electrical,39635486.0,3
+2024-06-01,EQ-045,Banyuwangi,Central,5.55,5.46,Wear & Tear,28582558.0,4
+2024-07-04,EQ-007,Sulawesi,East,1.67,2.86,Operational,48572644.0,1
+2024-03-03,EQ-010,Banyuwangi,East,3.3,11.75,Wear & Tear,59741684.0,4
+2024-07-08,EQ-045,Banyuwangi,East,1.2,10.39,Mechanical,35819968.0,4
+2024-05-04,EQ-017,Kalimantan,East,4.02,6.48,Wear & Tear,52191439.0,3
+2024-05-29,EQ-026,Banyuwangi,East,10.3,7.64,Operational,57448469.0,4
+2024-11-09,EQ-021,Banyuwangi,West,3.33,3.5,Hydraulic,58334136.0,4
+2024-02-27,EQ-028,Kalimantan,Central,6.46,6.98,Hydraulic,8897457.0,1
+2024-12-07,EQ-046,Sulawesi,West,6.08,8.64,Mechanical,69481085.0,4
+2024-10-31,EQ-002,Banyuwangi,East,1.54,6.67,Hydraulic,39368999.0,1
+2024-06-28,EQ-043,Kalimantan,East,1.58,11.89,Wear & Tear,24681206.0,3
+2024-06-18,EQ-001,Banyuwangi,East,8.02,7.72,Mechanical,23132338.0,1
+2024-11-21,EQ-036,Banyuwangi,East,2.28,5.08,Operational,41226058.0,2
+2024-09-27,EQ-026,Sulawesi,Central,6.72,9.49,Mechanical,71512365.0,2
+2024-02-23,EQ-029,Banyuwangi,East,2.24,2.88,Mechanical,33376069.0,1
+2024-04-10,EQ-021,Kalimantan,Central,2.71,5.23,Electrical,61229431.0,2
+2024-09-20,EQ-011,Banyuwangi,East,6.62,4.82,Electrical,12261405.0,3
+2024-02-22,EQ-040,Sulawesi,Central,4.3,5.75,Mechanical,40704253.0,2
+2024-02-29,EQ-011,Sulawesi,West,3.76,9.6,Hydraulic,79376461.0,1
+2024-04-17,EQ-036,Kalimantan,East,2.05,6.33,Electrical,62782835.0,3
+2024-01-05,EQ-049,Sulawesi,Central,5.46,9.73,Operational,20789637.0,2
+2024-04-12,EQ-039,Banyuwangi,West,2.39,7.34,Wear & Tear,42608111.0,3
+2024-07-14,EQ-040,Sulawesi,East,7.3,4.76,Electrical,22521857.0,1
+2024-09-18,EQ-035,Kalimantan,East,2.09,9.91,Mechanical,35717070.0,2
+2024-12-30,EQ-034,Sulawesi,East,3.73,3.62,Hydraulic,63506302.0,3
+2024-12-15,EQ-047,Sulawesi,Central,7.39,3.47,Wear & Tear,62841861.0,3
+2024-02-16,EQ-024,Sulawesi,Central,6.24,6.55,Electrical,22107528.0,2
+2024-12-20,EQ-022,Kalimantan,West,6.6,3.87,Hydraulic,74166749.0,3
+2024-11-06,EQ-005,Sulawesi,Central,4.47,1.1,Hydraulic,49442614.0,3
+2024-11-03,EQ-033,Sulawesi,Central,1.67,8.13,Hydraulic,33494322.0,1
+2024-05-23,EQ-036,Banyuwangi,East,8.95,6.62,Mechanical,42645169.0,1
+2024-09-25,EQ-047,Kalimantan,East,4.89,5.9,Operational,50380344.0,1
+2024-05-03,EQ-020,Sulawesi,East,2.86,11.64,Hydraulic,46991790.0,1
+2024-04-15,EQ-019,Kalimantan,East,2.66,7.28,Wear & Tear,41480378.0,1
+2024-06-06,EQ-035,Sulawesi,East,14.04,10.5,Electrical,42869960.0,1
+2024-05-26,EQ-043,Sulawesi,East,4.24,2.53,Wear & Tear,18230893.0,2
+2024-05-24,EQ-017,Sulawesi,East,1.3,7.26,Mechanical,65954968.0,1
+2024-04-29,EQ-045,Banyuwangi,West,11.05,10.55,Mechanical,45632024.0,3
+2024-11-14,EQ-043,Banyuwangi,West,3.71,7.41,Wear & Tear,14830990.0,2
+2024-10-01,EQ-034,Banyuwangi,West,3.02,8.9,Operational,62461783.0,3
+2024-04-01,EQ-009,Kalimantan,West,1.82,5.09,Mechanical,74933298.0,1
+2024-02-27,EQ-026,Kalimantan,East,5.08,2.02,Mechanical,76048017.0,1
+2024-12-11,EQ-002,Banyuwangi,West,9.28,6.04,Wear & Tear,32676330.0,3
+2024-08-16,EQ-009,Kalimantan,East,5.22,5.34,Mechanical,15163766.0,3
+2024-04-26,EQ-009,Sulawesi,West,3.27,10.54,Operational,43879972.0,3
+2024-11-13,EQ-040,Sulawesi,Central,1.07,3.68,Operational,13445692.0,4
+2024-10-05,EQ-017,Sulawesi,West,3.92,11.63,Operational,75049056.0,4
+2024-05-06,EQ-001,Banyuwangi,West,6.03,11.54,Electrical,18768472.0,4
+2024-05-08,EQ-025,Kalimantan,East,2.28,3.72,Operational,23957439.0,4
+2024-02-27,EQ-043,Banyuwangi,West,11.38,4.83,Operational,35497740.0,2
+2024-05-01,EQ-040,Kalimantan,Central,3.34,10.85,Electrical,33737335.0,1
+2024-01-01,EQ-042,Sulawesi,East,6.37,11.63,Hydraulic,64599717.0,3
+2024-08-26,EQ-025,Banyuwangi,East,3.46,5.88,Mechanical,39223762.0,1
+2024-10-16,EQ-039,Kalimantan,West,8.46,4.53,Operational,17807620.0,3
+2024-04-05,EQ-035,Kalimantan,East,5.45,6.79,Mechanical,25040742.0,1
+2024-05-05,EQ-003,Sulawesi,East,13.6,8.57,Wear & Tear,43183504.0,2
+2024-04-27,EQ-050,Banyuwangi,East,5.55,4.01,Mechanical,16059044.0,4
+2024-02-17,EQ-037,Banyuwangi,East,7.22,9.1,Electrical,50874176.0,1
+2024-03-29,EQ-044,Banyuwangi,East,5.8,1.57,Mechanical,47431048.0,3
+2024-08-24,EQ-044,Sulawesi,East,1.7,1.54,Mechanical,58602674.0,1
+2024-09-28,EQ-030,Banyuwangi,Central,10.89,5.25,Mechanical,75327846.0,2
+2024-07-07,EQ-038,Sulawesi,West,6.4,4.89,Hydraulic,73419092.0,2
+2024-07-10,EQ-034,Sulawesi,Central,7.36,4.47,Hydraulic,75955671.0,1
+2024-03-09,EQ-012,Sulawesi,East,9.91,6.4,Wear & Tear,23353670.0,4
+2024-10-04,EQ-019,Kalimantan,East,10.2,4.53,Electrical,14867398.0,3
+2024-12-14,EQ-037,Banyuwangi,West,1.86,3.11,Mechanical,27670753.0,2
+2024-09-03,EQ-044,Banyuwangi,Central,1.5,4.4,Mechanical,72131388.0,2
+2024-03-16,EQ-049,Sulawesi,West,2.45,11.72,Mechanical,77904011.0,1
+2024-06-02,EQ-017,Sulawesi,Central,1.55,5.52,Mechanical,69449371.0,2
+2024-05-23,EQ-010,Banyuwangi,East,3.4,5.89,Hydraulic,13251329.0,2
+2024-03-26,EQ-049,Sulawesi,West,1.73,7.34,Wear & Tear,76057100.0,3
+2024-07-03,EQ-047,Banyuwangi,West,1.84,11.82,Operational,36751852.0,4
+2024-10-11,EQ-012,Kalimantan,East,6.25,3.66,Electrical,5698272.0,3
+2024-08-07,EQ-016,Sulawesi,West,0.95,8.49,Mechanical,38179531.0,4
+2024-03-09,EQ-024,Banyuwangi,Central,5.04,8.88,Wear & Tear,8455188.0,3
+2024-02-16,EQ-019,Sulawesi,Central,8.92,7.68,Operational,45790844.0,1
+2024-04-03,EQ-008,Banyuwangi,Central,8.87,1.97,Wear & Tear,30391552.0,2
+2024-08-25,EQ-031,Banyuwangi,Central,7.53,8.45,Hydraulic,40507620.0,4
+2024-07-22,EQ-021,Sulawesi,East,8.23,1.71,Operational,50987777.0,1
+2024-08-05,EQ-017,Kalimantan,West,7.89,7.56,Wear & Tear,70160082.0,2
+2024-12-06,EQ-023,Banyuwangi,Central,1.8,9.14,Hydraulic,54642618.0,2
+2024-02-08,EQ-037,Banyuwangi,East,4.02,3.32,Wear & Tear,37553665.0,2
+2024-04-09,EQ-016,Banyuwangi,West,7.67,10.26,Wear & Tear,66457089.0,3
+2024-10-15,EQ-006,Kalimantan,West,3.3,1.33,Operational,72918660.0,1
+2024-09-10,EQ-008,Kalimantan,East,3.32,10.28,Hydraulic,13981997.0,1
+2024-08-09,EQ-025,Sulawesi,East,5.94,6.06,Mechanical,44894973.0,2
+2024-12-22,EQ-018,Kalimantan,Central,15.0,3.39,Electrical,26338397.0,4
+2024-01-23,EQ-025,Sulawesi,West,8.67,2.47,Operational,8529590.0,1
+2024-09-06,EQ-012,Sulawesi,West,0.98,11.49,Hydraulic,55141002.0,3
+2024-01-10,EQ-015,Kalimantan,East,5.49,1.8,Wear & Tear,69707808.0,4
+2024-09-02,EQ-026,Sulawesi,West,2.02,3.19,Hydraulic,17217699.0,4
+2024-11-20,EQ-041,Kalimantan,Central,9.08,4.83,Electrical,65931024.0,4
+2024-04-09,EQ-045,Sulawesi,West,11.58,7.82,Electrical,69004680.0,4
+2024-10-16,EQ-026,Kalimantan,East,16.64,6.99,Mechanical,73575533.0,1
+2024-06-28,EQ-047,Kalimantan,East,8.84,2.38,Mechanical,24896382.0,2
+2024-08-10,EQ-032,Sulawesi,Central,7.03,4.19,Electrical,72796480.0,4
+2024-09-06,EQ-010,Banyuwangi,Central,7.23,3.63,Operational,29049707.0,3
+2024-05-26,EQ-016,Sulawesi,West,1.98,3.35,Operational,46425351.0,3
+2024-04-05,EQ-007,Kalimantan,West,4.63,5.52,Wear & Tear,8788060.0,2
+2024-09-13,EQ-017,Banyuwangi,East,5.6,8.74,Mechanical,8291082.0,1
+2024-11-20,EQ-023,Sulawesi,Central,2.8,3.39,Wear & Tear,59027991.0,2
+2024-01-04,EQ-026,Sulawesi,Central,6.83,5.03,Mechanical,38335998.0,4
+2024-01-16,EQ-021,Sulawesi,Central,18.16,5.3,Electrical,24221928.0,1
+2024-10-06,EQ-022,Banyuwangi,West,7.61,11.74,Operational,19281012.0,1
+2024-12-01,EQ-007,Kalimantan,Central,4.75,11.5,Operational,55246512.0,4
+2024-09-03,EQ-014,Sulawesi,East,6.96,9.8,Electrical,5030116.0,3
+2024-09-14,EQ-015,Sulawesi,East,5.52,3.66,Wear & Tear,65441838.0,4
+2024-06-08,EQ-007,Sulawesi,West,3.92,1.75,Wear & Tear,10943720.0,2
+2024-12-05,EQ-009,Sulawesi,West,1.28,4.49,Hydraulic,19361721.0,4
+2024-05-31,EQ-048,Sulawesi,Central,7.98,3.93,Mechanical,33967730.0,3
+2024-06-26,EQ-008,Kalimantan,West,6.86,6.57,Wear & Tear,41364405.0,4
+2024-06-11,EQ-050,Kalimantan,East,6.87,9.56,Electrical,31624634.0,2
+2024-02-02,EQ-023,Sulawesi,Central,10.93,10.44,Wear & Tear,29053412.0,2
+2024-06-27,EQ-029,Banyuwangi,East,3.25,10.29,Operational,77293701.0,3
+2024-04-10,EQ-018,Kalimantan,Central,4.74,4.96,Mechanical,53118476.0,2
+2024-09-24,EQ-031,Banyuwangi,West,2.37,8.56,Hydraulic,6757472.0,2
+2024-11-18,EQ-030,Kalimantan,Central,3.14,4.44,Mechanical,37263193.0,4
+2024-03-05,EQ-039,Sulawesi,Central,1.46,1.67,Operational,70625652.0,1
+2024-06-16,EQ-035,Kalimantan,East,2.52,8.72,Operational,27609214.0,2
+2024-11-25,EQ-018,Sulawesi,East,6.42,1.11,Operational,12091726.0,2
+2024-02-12,EQ-042,Kalimantan,Central,17.06,5.5,Operational,61878858.0,3
+2024-02-13,EQ-039,Sulawesi,West,1.74,4.62,Electrical,50451037.0,3
+2024-10-11,EQ-017,Sulawesi,West,3.88,8.63,Hydraulic,47773438.0,4
+2024-01-12,EQ-014,Sulawesi,East,15.09,9.43,Operational,9018242.0,4
+2024-04-04,EQ-031,Sulawesi,West,7.19,4.35,Operational,15537426.0,2
+2024-10-28,EQ-024,Banyuwangi,East,6.11,9.93,Wear & Tear,51691205.0,1
+2024-09-09,EQ-035,Sulawesi,West,2.25,4.23,Hydraulic,20586788.0,1
+2024-08-29,EQ-044,Banyuwangi,Central,4.21,5.91,Mechanical,42805256.0,4
+2024-02-04,EQ-045,Banyuwangi,East,2.93,9.0,Hydraulic,45866126.0,3
+2024-08-02,EQ-034,Sulawesi,East,6.73,8.62,Hydraulic,26263039.0,2
+2024-12-02,EQ-003,Banyuwangi,Central,6.85,11.86,Hydraulic,76131887.0,2
+2024-03-30,EQ-037,Kalimantan,East,3.41,3.48,Operational,68184808.0,1
+2024-09-20,EQ-043,Sulawesi,West,3.96,8.29,Operational,59178013.0,4
+2024-04-02,EQ-040,Banyuwangi,West,10.96,7.71,Electrical,10849540.0,1
+2024-03-30,EQ-026,Sulawesi,East,11.82,11.07,Mechanical,12959751.0,1
+2024-04-24,EQ-023,Sulawesi,West,3.68,2.72,Wear & Tear,41958601.0,4
+2024-04-14,EQ-044,Sulawesi,East,3.76,9.27,Hydraulic,17053501.0,3
+2024-07-14,EQ-039,Banyuwangi,Central,1.64,7.25,Mechanical,78369910.0,2
+2024-11-09,EQ-015,Kalimantan,East,3.95,4.02,Mechanical,16889018.0,3
+2024-04-23,EQ-049,Kalimantan,Central,5.06,6.22,Electrical,41560088.0,4
+2024-03-15,EQ-004,Banyuwangi,West,6.5,4.67,Wear & Tear,32309079.0,4
+2024-08-04,EQ-029,Sulawesi,Central,4.07,7.37,Hydraulic,52953982.0,2
+2024-10-03,EQ-022,Banyuwangi,West,12.41,10.78,Wear & Tear,14677731.0,3
+2024-09-05,EQ-025,Banyuwangi,East,12.83,7.26,Electrical,37273732.0,2
+2024-06-12,EQ-013,Banyuwangi,West,17.34,7.95,Operational,25602877.0,1
+2024-12-22,EQ-018,Sulawesi,East,6.49,6.71,Mechanical,71581364.0,1
+2024-07-10,EQ-033,Banyuwangi,East,3.93,1.56,Hydraulic,8043928.0,1
+2024-08-14,EQ-016,Sulawesi,Central,6.14,3.56,Operational,73529562.0,3
+2024-06-25,EQ-045,Banyuwangi,Central,4.15,6.41,Electrical,67474560.0,1
+2024-04-08,EQ-042,Kalimantan,Central,11.0,4.41,Wear & Tear,27317804.0,2
+2024-02-05,EQ-044,Banyuwangi,Central,7.99,3.0,Mechanical,64196799.0,3
+2024-04-05,EQ-002,Banyuwangi,West,3.38,6.55,Hydraulic,7341017.0,2
+2024-05-31,EQ-035,Kalimantan,West,8.09,4.55,Operational,77514916.0,4
+2024-05-30,EQ-042,Sulawesi,West,0.81,3.84,Operational,44494621.0,3
+2024-07-08,EQ-034,Sulawesi,East,13.41,6.1,Mechanical,27746077.0,2
+2024-08-11,EQ-030,Banyuwangi,West,2.77,2.47,Wear & Tear,32193741.0,2
+2024-02-06,EQ-013,Kalimantan,West,12.24,11.21,Electrical,9980402.0,3
+2024-09-24,EQ-013,Sulawesi,West,3.38,10.54,Wear & Tear,79201214.0,4
+2024-07-01,EQ-018,Banyuwangi,Central,5.29,8.78,Wear & Tear,7946896.0,3
+2024-01-13,EQ-032,Kalimantan,West,3.81,2.17,Wear & Tear,54118034.0,1
+2024-10-05,EQ-032,Sulawesi,East,6.92,9.53,Mechanical,38205195.0,1
+2024-08-04,EQ-035,Sulawesi,Central,1.73,9.89,Mechanical,76168716.0,4
+2024-12-20,EQ-039,Kalimantan,East,0.37,9.45,Electrical,23449981.0,2
+2024-12-26,EQ-046,Kalimantan,West,11.65,2.25,Wear & Tear,44906512.0,2
+2024-10-12,EQ-029,Kalimantan,Central,13.32,8.08,Mechanical,41176716.0,2
+2024-09-29,EQ-049,Kalimantan,East,3.37,10.18,Electrical,57714983.0,3
+2024-03-02,EQ-029,Banyuwangi,West,2.4,7.35,Electrical,10100767.0,3
+2024-03-24,EQ-044,Kalimantan,East,4.18,8.11,Wear & Tear,19534185.0,4
+2024-08-04,EQ-016,Sulawesi,East,1.77,6.04,Hydraulic,21092362.0,1
+2024-12-07,EQ-044,Sulawesi,East,6.46,6.82,Wear & Tear,60361307.0,2
+2024-07-05,EQ-047,Banyuwangi,West,3.69,1.38,Hydraulic,19185402.0,1
+2024-01-19,EQ-010,Sulawesi,West,3.28,8.03,Electrical,48011882.0,3
+2024-06-25,EQ-030,Sulawesi,East,3.03,1.9,Mechanical,21143287.0,3
+2024-04-09,EQ-025,Kalimantan,Central,4.6,5.79,Operational,69621871.0,3
+2024-08-20,EQ-039,Sulawesi,Central,3.74,4.22,Electrical,75663909.0,1
+2024-03-16,EQ-020,Banyuwangi,West,4.69,7.0,Mechanical,43886973.0,4
+2024-09-21,EQ-005,Kalimantan,West,2.81,2.47,Electrical,31423166.0,4
+2024-10-10,EQ-001,Kalimantan,West,9.99,8.61,Wear & Tear,22554333.0,3
+2024-07-24,EQ-030,Banyuwangi,West,6.46,9.75,Hydraulic,8733575.0,2
+2024-08-10,EQ-049,Kalimantan,West,4.72,2.8,Electrical,25137506.0,1
+2024-02-21,EQ-003,Kalimantan,Central,2.0,2.15,Mechanical,54067683.0,3
+2024-12-04,EQ-045,Banyuwangi,West,9.56,2.6,Wear & Tear,45021270.0,1
+2024-05-23,EQ-014,Kalimantan,East,2.93,10.65,Operational,75803096.0,1
+2024-03-09,EQ-030,Banyuwangi,East,5.28,6.81,Wear & Tear,34720795.0,4
+2024-04-08,EQ-050,Banyuwangi,Central,3.04,6.14,Hydraulic,57039751.0,3
+2024-01-25,EQ-004,Sulawesi,East,7.99,2.17,Wear & Tear,41699206.0,4
+2024-02-22,EQ-018,Sulawesi,Central,2.99,8.15,Operational,43443216.0,3
+2024-05-30,EQ-037,Kalimantan,Central,8.11,10.55,Mechanical,25083074.0,1
+2024-05-23,EQ-025,Kalimantan,East,2.56,10.11,Electrical,39121308.0,4
+2024-02-26,EQ-048,Banyuwangi,West,0.63,7.89,Hydraulic,40308875.0,1
+2024-02-08,EQ-001,Kalimantan,East,2.81,1.83,Operational,57998189.0,3
+2024-04-18,EQ-046,Banyuwangi,East,6.04,2.24,Hydraulic,75548000.0,2
+2024-06-29,EQ-015,Banyuwangi,Central,1.67,1.54,Wear & Tear,29699096.0,4
+2024-02-11,EQ-009,Kalimantan,East,4.36,3.83,Hydraulic,8165035.0,4
+2024-07-04,EQ-015,Banyuwangi,Central,4.37,2.49,Operational,42222134.0,1
+2024-08-10,EQ-049,Sulawesi,West,14.88,3.86,Electrical,45834600.0,1
+2024-05-01,EQ-024,Kalimantan,West,2.34,5.24,Electrical,17633041.0,2
+2024-05-12,EQ-004,Sulawesi,West,13.86,11.37,Hydraulic,62034845.0,4
+2024-06-11,EQ-012,Kalimantan,East,2.36,7.71,Mechanical,78869683.0,3
+2024-08-02,EQ-037,Banyuwangi,Central,7.31,10.18,Hydraulic,75933104.0,3
+2024-08-08,EQ-037,Kalimantan,West,3.84,8.81,Wear & Tear,19782953.0,4
+2024-08-22,EQ-043,Sulawesi,Central,3.39,2.24,Electrical,70652243.0,4
+2024-11-26,EQ-006,Banyuwangi,Central,1.26,9.1,Electrical,57837023.0,4
+2024-05-25,EQ-039,Kalimantan,West,7.28,4.03,Electrical,39038492.0,2
+2024-08-26,EQ-046,Kalimantan,West,9.79,8.03,Mechanical,45545825.0,3
+2024-03-16,EQ-024,Kalimantan,Central,7.11,4.75,Mechanical,68720013.0,3
+2024-01-09,EQ-011,Sulawesi,West,2.76,11.97,Operational,41010120.0,1
+2024-03-14,EQ-013,Sulawesi,Central,3.68,3.9,Hydraulic,32990553.0,1
+2024-09-09,EQ-034,Kalimantan,Central,4.24,4.07,Hydraulic,41993562.0,4
+2024-08-17,EQ-025,Banyuwangi,West,7.73,11.24,Wear & Tear,48434735.0,1
+2024-01-07,EQ-007,Banyuwangi,East,10.68,1.27,Electrical,19180824.0,2
+2024-06-22,EQ-004,Sulawesi,West,3.99,8.66,Mechanical,72568080.0,3
+2024-05-20,EQ-008,Banyuwangi,East,0.74,8.98,Wear & Tear,55564021.0,3
+2024-06-16,EQ-020,Sulawesi,Central,0.73,10.2,Wear & Tear,52495169.0,1
+2024-06-18,EQ-029,Kalimantan,Central,2.54,11.72,Mechanical,12462217.0,4
+2024-10-09,EQ-045,Sulawesi,East,9.52,11.73,Hydraulic,50313045.0,1
+2024-05-01,EQ-046,Sulawesi,Central,7.41,1.72,Electrical,14072050.0,4
+2024-07-12,EQ-010,Kalimantan,East,8.03,10.04,Hydraulic,10902326.0,2
+2024-01-05,EQ-043,Banyuwangi,East,2.69,8.11,Wear & Tear,44548317.0,3
+2024-01-29,EQ-034,Sulawesi,Central,3.44,8.12,Electrical,35208915.0,2
+2024-06-13,EQ-026,Sulawesi,East,9.33,2.41,Operational,49160770.0,3
+2024-12-04,EQ-041,Kalimantan,West,14.29,8.15,Wear & Tear,11691663.0,2
+2024-05-15,EQ-049,Banyuwangi,West,9.46,11.81,Hydraulic,37323730.0,1
+2024-12-30,EQ-003,Sulawesi,Central,9.46,11.03,Hydraulic,18109004.0,2
+2024-11-16,EQ-006,Kalimantan,Central,2.58,5.83,Hydraulic,79032506.0,2
+2024-12-07,EQ-005,Sulawesi,East,7.8,1.44,Mechanical,47086266.0,1
+2024-05-24,EQ-005,Kalimantan,East,1.44,4.99,Wear & Tear,56557765.0,3
+2024-11-22,EQ-047,Banyuwangi,East,10.41,10.09,Electrical,29406371.0,3
+2024-08-04,EQ-023,Banyuwangi,East,6.37,8.72,Hydraulic,12105419.0,1
+2024-10-27,EQ-049,Banyuwangi,West,3.97,6.05,Hydraulic,78190315.0,2
+2024-05-11,EQ-009,Banyuwangi,West,0.47,1.61,Mechanical,26469428.0,2
+2024-10-18,EQ-035,Sulawesi,Central,3.87,5.7,Electrical,36785614.0,2
+2024-03-10,EQ-020,Sulawesi,East,4.91,6.16,Wear & Tear,53739794.0,4
+2024-09-08,EQ-049,Banyuwangi,East,5.3,11.21,Operational,6852297.0,3
+2024-10-01,EQ-042,Banyuwangi,Central,4.02,8.05,Mechanical,65769435.0,2
+2024-12-29,EQ-035,Banyuwangi,East,3.17,4.43,Wear & Tear,45243364.0,3
+2024-06-30,EQ-050,Sulawesi,East,2.33,6.78,Operational,25866289.0,2
+2024-06-15,EQ-018,Banyuwangi,East,14.28,1.73,Hydraulic,9620599.0,1
+2024-03-31,EQ-017,Banyuwangi,East,17.0,11.7,Hydraulic,17187381.0,1
+2024-07-20,EQ-024,Banyuwangi,East,5.8,4.96,Electrical,72127539.0,3
+2024-12-11,EQ-003,Kalimantan,Central,2.5,6.26,Operational,56451817.0,3
+2024-01-19,EQ-032,Banyuwangi,East,1.9,4.91,Hydraulic,23742629.0,1
+2024-02-08,EQ-035,Kalimantan,Central,3.99,8.51,Hydraulic,9920057.0,4
+2024-05-05,EQ-038,Kalimantan,East,16.57,8.28,Electrical,56796148.0,1
+2024-06-21,EQ-013,Banyuwangi,West,6.01,8.87,Wear & Tear,47930579.0,2
+2024-05-20,EQ-047,Kalimantan,West,11.12,3.95,Hydraulic,35338964.0,4
+2024-08-29,EQ-025,Banyuwangi,West,10.98,4.47,Mechanical,32270859.0,1
+2024-08-07,EQ-009,Sulawesi,West,7.98,2.38,Mechanical,21261071.0,4
+2024-05-05,EQ-004,Sulawesi,Central,1.76,8.21,Wear & Tear,55220844.0,4
+2024-02-27,EQ-014,Sulawesi,Central,11.01,1.44,Operational,77800102.0,4
+2024-05-27,EQ-037,Sulawesi,East,1.56,7.57,Electrical,18178643.0,3
+2024-11-12,EQ-034,Kalimantan,West,2.6,10.57,Mechanical,49783747.0,1
+2024-12-26,EQ-011,Banyuwangi,Central,6.2,10.8,Mechanical,36813879.0,3
+2024-01-01,EQ-041,Banyuwangi,East,3.68,5.94,Wear & Tear,38501654.0,3
+2024-12-13,EQ-003,Banyuwangi,East,6.15,6.05,Operational,24061046.0,2
+2024-07-08,EQ-028,Sulawesi,Central,1.47,1.85,Operational,66885116.0,2
+2024-07-09,EQ-029,Sulawesi,West,2.6,8.38,Wear & Tear,41394170.0,4
+2024-11-07,EQ-009,Banyuwangi,East,7.75,10.03,Mechanical,45755439.0,4
+2024-04-26,EQ-003,Sulawesi,West,25.18,3.69,Electrical,27857068.0,2
+2024-05-13,EQ-025,Banyuwangi,West,12.75,5.63,Mechanical,18635635.0,2
+2024-02-27,EQ-034,Banyuwangi,West,1.03,10.23,Operational,11443279.0,1
+2024-02-13,EQ-012,Banyuwangi,East,3.98,10.65,Mechanical,58558936.0,4
+2024-06-21,EQ-042,Banyuwangi,West,2.97,3.67,Electrical,19717571.0,4
+2024-06-08,EQ-009,Banyuwangi,East,4.88,7.06,Hydraulic,56755652.0,2
+2024-06-21,EQ-015,Banyuwangi,West,6.14,3.12,Mechanical,34278233.0,1
+2024-11-12,EQ-040,Banyuwangi,East,3.12,2.12,Wear & Tear,36183110.0,2
+2024-10-29,EQ-025,Sulawesi,West,10.05,11.02,Hydraulic,40188312.0,2
+2024-05-28,EQ-005,Banyuwangi,Central,11.28,10.03,Wear & Tear,32578138.0,3
+2024-03-20,EQ-011,Banyuwangi,West,10.85,9.36,Wear & Tear,12546498.0,4
+2024-07-31,EQ-034,Sulawesi,West,2.22,1.54,Wear & Tear,28222386.0,1
+2024-07-21,EQ-024,Sulawesi,East,6.37,10.28,Mechanical,54780077.0,3
+2024-09-08,EQ-015,Sulawesi,East,10.18,5.82,Operational,54933830.0,4
+2024-08-16,EQ-038,Banyuwangi,West,8.89,4.77,Hydraulic,26466823.0,2
+2024-06-12,EQ-008,Kalimantan,Central,8.48,7.01,Electrical,39507697.0,1
+2024-08-14,EQ-005,Kalimantan,Central,12.9,2.0,Operational,19508542.0,4
+2024-05-26,EQ-048,Sulawesi,East,3.42,9.32,Mechanical,20777906.0,2
+2024-01-20,EQ-026,Kalimantan,Central,0.84,7.41,Wear & Tear,6728532.0,3
+2024-02-16,EQ-018,Sulawesi,West,3.94,3.05,Electrical,72255991.0,1
+2024-08-20,EQ-006,Banyuwangi,East,4.13,3.07,Hydraulic,20803000.0,4
+2024-10-31,EQ-037,Kalimantan,West,22.86,3.03,Operational,22065041.0,3
+2024-01-14,EQ-048,Banyuwangi,East,2.9,1.63,Operational,25970107.0,2
+2024-05-22,EQ-013,Kalimantan,East,11.11,7.47,Electrical,14555605.0,2
+2024-01-01,EQ-028,Banyuwangi,East,20.03,10.24,Mechanical,52944716.0,4
+2024-02-23,EQ-005,Kalimantan,East,17.18,1.19,Hydraulic,10635721.0,2
+2024-09-15,EQ-013,Banyuwangi,Central,4.92,1.54,Electrical,15065182.0,1
+2024-05-23,EQ-017,Banyuwangi,West,8.99,7.3,Wear & Tear,53356754.0,4
+2024-01-12,EQ-050,Kalimantan,West,5.98,10.01,Hydraulic,30474547.0,3
+2024-11-25,EQ-040,Banyuwangi,West,2.49,4.59,Operational,58096087.0,4
+2024-08-11,EQ-045,Banyuwangi,East,12.38,4.85,Electrical,46806856.0,4
+2024-09-28,EQ-032,Banyuwangi,Central,7.7,7.56,Operational,24201588.0,3
+2024-12-23,EQ-029,Kalimantan,West,2.22,4.02,Operational,53812096.0,2
+2024-06-04,EQ-003,Kalimantan,Central,3.69,1.29,Operational,13720526.0,3
+2024-01-08,EQ-040,Banyuwangi,East,4.42,9.09,Mechanical,45230779.0,1
+2024-05-01,EQ-034,Banyuwangi,West,11.39,7.88,Operational,37786108.0,2
+2024-12-13,EQ-040,Kalimantan,Central,1.69,7.39,Wear & Tear,25090519.0,4
+2024-06-12,EQ-027,Kalimantan,East,1.68,9.16,Wear & Tear,50300375.0,2
+2024-03-30,EQ-013,Banyuwangi,Central,5.89,8.43,Hydraulic,70350019.0,2
+2024-05-15,EQ-045,Banyuwangi,West,2.09,3.26,Operational,79917852.0,1
+2024-07-04,EQ-033,Banyuwangi,West,4.33,4.88,Operational,50582208.0,2
+2024-11-11,EQ-006,Sulawesi,East,3.32,2.39,Electrical,35352941.0,2
+2024-06-26,EQ-024,Kalimantan,East,0.51,2.43,Mechanical,21890533.0,2
+2024-01-28,EQ-019,Sulawesi,East,2.79,8.44,Hydraulic,24282207.0,4
+2024-08-07,EQ-016,Kalimantan,Central,4.22,10.44,Operational,40959123.0,2
+2024-12-22,EQ-040,Kalimantan,Central,9.72,11.59,Electrical,32545828.0,3
+2024-02-10,EQ-028,Kalimantan,Central,17.37,7.91,Mechanical,73536089.0,2
+2024-08-15,EQ-033,Kalimantan,East,2.55,3.03,Hydraulic,32622160.0,1
+2024-07-10,EQ-048,Kalimantan,West,5.7,2.16,Hydraulic,33008344.0,2
+2024-05-24,EQ-041,Kalimantan,West,7.25,9.94,Operational,33765088.0,2
+2024-07-19,EQ-013,Kalimantan,Central,21.7,7.37,Hydraulic,67746516.0,4
+2024-07-30,EQ-043,Sulawesi,Central,3.18,7.8,Electrical,53809124.0,3
+2024-08-07,EQ-045,Banyuwangi,West,2.42,9.6,Hydraulic,51062664.0,2
+2024-08-27,EQ-025,Banyuwangi,West,3.73,8.74,Wear & Tear,30060727.0,3
+2024-02-15,EQ-042,Sulawesi,Central,2.4,10.18,Electrical,66342813.0,1
+2024-02-04,EQ-036,Sulawesi,Central,8.1,1.62,Mechanical,7877290.0,4
+2024-09-09,EQ-027,Sulawesi,West,9.93,9.22,Mechanical,70309788.0,3
+2024-03-22,EQ-038,Sulawesi,East,6.05,10.36,Operational,43456242.0,4
+2024-09-12,EQ-007,Kalimantan,Central,5.75,4.15,Operational,34868768.0,2
+2024-07-15,EQ-005,Banyuwangi,West,12.55,8.04,Wear & Tear,42287546.0,1
+2024-10-29,EQ-043,Kalimantan,West,4.25,4.46,Mechanical,55056165.0,4
+2024-01-10,EQ-045,Banyuwangi,West,8.8,11.54,Mechanical,5957407.0,2
+2024-11-07,EQ-031,Banyuwangi,West,4.19,1.37,Mechanical,70366389.0,3
+2024-10-12,EQ-023,Sulawesi,East,1.74,7.38,Mechanical,38505464.0,1
+2024-08-29,EQ-042,Kalimantan,West,11.25,2.83,Hydraulic,30722489.0,1
+2024-09-07,EQ-010,Sulawesi,Central,6.33,8.83,Electrical,15368417.0,3
+2024-12-30,EQ-032,Kalimantan,East,10.55,2.93,Electrical,37959903.0,3
+2024-01-05,EQ-043,Banyuwangi,West,6.87,3.59,Wear & Tear,42224208.0,1
+2024-04-28,EQ-030,Sulawesi,East,7.5,6.44,Hydraulic,35273502.0,4
+2024-10-15,EQ-039,Sulawesi,Central,2.46,11.06,Mechanical,55899507.0,1
+2024-03-05,EQ-031,Banyuwangi,West,7.36,3.33,Mechanical,36567240.0,3
+2024-05-25,EQ-018,Banyuwangi,Central,12.47,2.59,Operational,77106318.0,4
+2024-08-11,EQ-036,Banyuwangi,West,4.68,9.35,Operational,49945814.0,2
+2024-08-26,EQ-002,Sulawesi,West,3.05,6.51,Wear & Tear,65560845.0,1
+2024-06-25,EQ-014,Kalimantan,West,9.03,11.03,Mechanical,13201693.0,3
+2024-09-23,EQ-013,Sulawesi,West,1.53,2.61,Wear & Tear,34796847.0,2
+2024-12-06,EQ-029,Kalimantan,West,13.57,8.11,Hydraulic,30263578.0,1
+2024-10-08,EQ-012,Sulawesi,East,4.15,3.56,Electrical,47711179.0,1
+2024-03-03,EQ-039,Sulawesi,West,8.82,2.72,Mechanical,69583514.0,4
+2024-08-04,EQ-002,Banyuwangi,West,6.37,8.52,Hydraulic,10875366.0,3
+2024-12-07,EQ-032,Kalimantan,East,11.29,7.53,Mechanical,10443110.0,2
+2024-11-10,EQ-013,Sulawesi,East,11.7,9.3,Operational,68773828.0,1
+2024-10-09,EQ-046,Sulawesi,East,5.87,4.4,Wear & Tear,20963756.0,4
+2024-06-25,EQ-027,Banyuwangi,East,15.27,5.93,Operational,55156494.0,2
+2024-04-07,EQ-049,Banyuwangi,East,1.39,5.46,Electrical,45715860.0,2
+2024-04-14,EQ-041,Kalimantan,East,7.22,11.82,Operational,67467020.0,1
+2024-04-08,EQ-017,Sulawesi,West,12.62,4.21,Mechanical,14381668.0,2
+2024-11-06,EQ-040,Kalimantan,West,7.47,4.24,Operational,14733722.0,1
+2024-01-06,EQ-031,Sulawesi,Central,3.04,4.9,Mechanical,46761377.0,4
+2024-07-15,EQ-034,Kalimantan,West,5.97,7.21,Electrical,75978399.0,4
+2024-12-16,EQ-024,Banyuwangi,West,3.25,3.78,Operational,36124832.0,2
+2024-05-12,EQ-045,Sulawesi,East,3.16,11.07,Wear & Tear,29520658.0,1
+2024-12-23,EQ-035,Kalimantan,East,6.19,3.92,Wear & Tear,50501699.0,3
+2024-09-15,EQ-048,Banyuwangi,West,0.22,10.85,Wear & Tear,74783645.0,4
+2024-01-23,EQ-006,Banyuwangi,Central,4.27,2.14,Operational,67769587.0,1
+2024-02-22,EQ-019,Kalimantan,East,5.77,8.22,Operational,79661271.0,1
+2024-06-13,EQ-030,Sulawesi,West,5.51,10.98,Operational,6692644.0,1
+2024-07-20,EQ-007,Sulawesi,West,2.66,2.86,Mechanical,13464361.0,2
+2024-03-23,EQ-010,Banyuwangi,Central,7.43,11.65,Electrical,50710082.0,3
+2024-05-24,EQ-041,Sulawesi,Central,5.27,5.98,Wear & Tear,66543233.0,2
+2024-03-25,EQ-032,Sulawesi,East,18.37,11.4,Mechanical,26393326.0,4
+2024-03-18,EQ-034,Sulawesi,Central,7.68,8.45,Wear & Tear,22940832.0,2
+2024-01-01,EQ-028,Banyuwangi,West,3.34,4.32,Mechanical,64023185.0,1
+2024-02-20,EQ-015,Kalimantan,West,8.9,3.07,Operational,9228639.0,2
+2024-06-21,EQ-030,Sulawesi,Central,0.96,4.34,Wear & Tear,32703699.0,1
+2024-07-23,EQ-037,Banyuwangi,Central,5.48,2.02,Operational,42935692.0,3
+2024-09-16,EQ-029,Banyuwangi,Central,6.34,2.58,Wear & Tear,47026151.0,2
+2024-10-14,EQ-022,Kalimantan,Central,5.52,2.15,Hydraulic,59646137.0,2
+2024-02-03,EQ-004,Sulawesi,East,2.52,5.65,Mechanical,31613429.0,2
+2024-12-13,EQ-020,Sulawesi,Central,5.41,9.75,Hydraulic,50951326.0,1
+2024-04-04,EQ-032,Kalimantan,East,1.81,2.56,Mechanical,48903157.0,1
+2024-03-12,EQ-036,Kalimantan,West,15.47,2.43,Electrical,46071208.0,2
+2024-02-08,EQ-050,Banyuwangi,Central,5.44,8.08,Wear & Tear,53036247.0,2
+2024-06-02,EQ-004,Banyuwangi,East,7.23,3.17,Electrical,24458688.0,3
+2024-09-06,EQ-027,Kalimantan,Central,1.31,2.07,Electrical,11348657.0,3
+2024-06-10,EQ-017,Sulawesi,West,3.11,2.84,Mechanical,13945375.0,4
+2024-04-27,EQ-012,Banyuwangi,West,7.81,11.16,Hydraulic,21843679.0,3
+2024-09-15,EQ-022,Banyuwangi,West,10.21,10.04,Operational,42514845.0,3
+2024-11-01,EQ-017,Sulawesi,Central,2.27,4.89,Mechanical,68033206.0,3
+2024-09-24,EQ-010,Banyuwangi,Central,7.21,8.21,Operational,57597001.0,1
+2024-02-23,EQ-001,Sulawesi,East,3.77,6.91,Electrical,64178045.0,3
+2024-08-23,EQ-022,Sulawesi,West,0.88,8.45,Operational,31323172.0,3
+2024-08-09,EQ-026,Sulawesi,Central,3.02,8.51,Hydraulic,35349031.0,2
+2024-09-07,EQ-018,Kalimantan,West,10.44,7.92,Mechanical,34526141.0,1
+2024-11-08,EQ-050,Kalimantan,West,11.24,3.93,Hydraulic,19390489.0,4
+2024-04-21,EQ-014,Kalimantan,East,6.18,1.43,Hydraulic,9591249.0,4
+2024-09-11,EQ-047,Sulawesi,East,5.64,6.01,Mechanical,49318707.0,3
+2024-10-29,EQ-029,Sulawesi,East,3.71,10.8,Hydraulic,79191251.0,4
+2024-07-25,EQ-012,Kalimantan,East,0.4,7.26,Wear & Tear,17512228.0,4
+2024-08-16,EQ-036,Banyuwangi,West,6.71,10.16,Wear & Tear,8501361.0,4
+2024-12-06,EQ-035,Sulawesi,East,2.43,11.91,Wear & Tear,63464876.0,3
+2024-03-06,EQ-012,Banyuwangi,East,12.39,2.8,Operational,23943951.0,4
+2024-03-15,EQ-007,Banyuwangi,East,1.7,8.61,Hydraulic,67223285.0,3
+2024-04-12,EQ-029,Sulawesi,East,10.86,8.42,Mechanical,57795250.0,2
+2024-07-10,EQ-011,Sulawesi,West,0.84,11.78,Mechanical,75925515.0,2
+2024-09-08,EQ-033,Banyuwangi,East,23.02,11.84,Operational,35669543.0,4
+2024-08-13,EQ-006,Banyuwangi,West,1.37,8.55,Mechanical,54647738.0,2
+2024-10-20,EQ-047,Kalimantan,Central,11.27,3.68,Wear & Tear,39864109.0,3
+2024-11-01,EQ-015,Kalimantan,West,2.95,9.78,Hydraulic,52294152.0,2
+2024-04-07,EQ-032,Sulawesi,West,7.78,2.18,Mechanical,38719918.0,4
+2024-12-03,EQ-011,Kalimantan,East,15.54,9.59,Mechanical,19147418.0,3
+2024-10-12,EQ-023,Kalimantan,Central,4.05,11.01,Electrical,43092306.0,1
+2024-11-30,EQ-026,Kalimantan,Central,21.67,5.21,Electrical,44643815.0,3
+2024-12-12,EQ-034,Kalimantan,Central,15.79,7.94,Electrical,65795289.0,2
+2024-11-03,EQ-046,Banyuwangi,Central,1.19,5.73,Hydraulic,60164053.0,1
+2024-09-05,EQ-034,Sulawesi,West,4.99,5.82,Wear & Tear,54784372.0,3
+2024-06-14,EQ-029,Kalimantan,Central,4.17,4.41,Wear & Tear,13504032.0,1
+2024-11-30,EQ-004,Banyuwangi,West,5.25,9.38,Wear & Tear,59046222.0,1
+2024-01-30,EQ-017,Banyuwangi,West,3.73,11.3,Hydraulic,42522887.0,1
+2024-09-03,EQ-035,Banyuwangi,West,2.28,11.35,Hydraulic,72057465.0,3
+2024-04-15,EQ-013,Kalimantan,Central,4.76,2.92,Electrical,73990320.0,2
+2024-02-20,EQ-041,Kalimantan,East,7.6,10.62,Mechanical,9136744.0,3
+2024-03-21,EQ-039,Sulawesi,East,0.22,9.11,Operational,66548117.0,2
+2024-05-12,EQ-015,Kalimantan,Central,9.57,3.78,Operational,7827304.0,3
+2024-10-11,EQ-029,Kalimantan,East,5.75,1.74,Mechanical,32537722.0,3
+2024-05-17,EQ-029,Banyuwangi,East,13.79,3.95,Electrical,45672498.0,3
+2024-07-02,EQ-011,Sulawesi,West,3.49,11.03,Mechanical,16107560.0,2
+2024-11-25,EQ-032,Kalimantan,West,3.1,7.96,Mechanical,60973536.0,3
+2024-09-29,EQ-002,Kalimantan,Central,2.52,8.93,Operational,5626603.0,1
+2024-12-05,EQ-047,Banyuwangi,Central,7.31,3.83,Electrical,17644929.0,3
+2024-03-09,EQ-014,Banyuwangi,East,0.73,8.91,Hydraulic,48559762.0,1
+2024-02-03,EQ-020,Kalimantan,West,2.68,1.31,Operational,58579067.0,4
+2024-09-18,EQ-022,Sulawesi,Central,5.82,5.13,Hydraulic,73748233.0,4
+2024-02-22,EQ-011,Sulawesi,Central,1.17,7.89,Electrical,57912249.0,2
+2024-07-23,EQ-027,Banyuwangi,Central,5.37,2.61,Mechanical,55383445.0,2
+2024-05-05,EQ-003,Banyuwangi,Central,12.17,10.05,Wear & Tear,34575586.0,4
+2024-08-22,EQ-017,Kalimantan,Central,11.12,3.59,Wear & Tear,5096332.0,3
+2024-02-12,EQ-044,Banyuwangi,Central,4.6,8.18,Electrical,14011944.0,3
+2024-08-27,EQ-028,Kalimantan,East,9.96,5.46,Wear & Tear,45091591.0,3
+2024-04-20,EQ-029,Sulawesi,West,7.1,7.56,Hydraulic,55634741.0,4
+2024-09-05,EQ-021,Sulawesi,West,5.81,2.18,Wear & Tear,36308621.0,1
+2024-05-30,EQ-047,Kalimantan,Central,7.96,1.19,Electrical,59800926.0,2
+2024-07-01,EQ-016,Banyuwangi,West,3.72,11.01,Electrical,44139672.0,1
+2024-12-01,EQ-037,Sulawesi,West,4.0,3.97,Hydraulic,10563215.0,4
+2024-04-04,EQ-020,Banyuwangi,West,6.96,10.02,Wear & Tear,19401219.0,1
+2024-01-08,EQ-006,Sulawesi,Central,5.0,11.99,Wear & Tear,67999867.0,3
+2024-12-25,EQ-019,Kalimantan,Central,10.91,3.33,Mechanical,59368456.0,3
+2024-07-02,EQ-005,Kalimantan,West,8.74,3.92,Operational,72107149.0,1
+2024-10-07,EQ-003,Kalimantan,West,8.7,8.29,Electrical,13816794.0,4
+2024-07-13,EQ-001,Sulawesi,Central,7.5,11.62,Mechanical,79266690.0,1
+2024-12-17,EQ-038,Banyuwangi,East,5.76,11.07,Electrical,20705504.0,3
+2024-07-13,EQ-015,Banyuwangi,West,8.56,6.53,Mechanical,5883491.0,3
+2024-06-03,EQ-034,Banyuwangi,East,10.3,9.75,Operational,79806720.0,4
+2024-04-02,EQ-035,Sulawesi,West,6.63,2.49,Mechanical,26080541.0,1
+2024-06-08,EQ-049,Sulawesi,East,2.45,11.75,Electrical,55101459.0,3
+2024-03-01,EQ-025,Sulawesi,East,5.09,11.61,Wear & Tear,18251174.0,3
+2024-05-01,EQ-024,Sulawesi,East,1.21,2.8,Electrical,48517140.0,1
+2024-02-20,EQ-012,Sulawesi,Central,11.85,4.29,Hydraulic,72802624.0,1
+2024-10-03,EQ-018,Banyuwangi,East,8.58,2.1,Hydraulic,29013588.0,2
+2024-01-05,EQ-015,Sulawesi,East,2.42,3.99,Hydraulic,55269048.0,4
+2024-04-01,EQ-044,Sulawesi,East,2.91,9.98,Hydraulic,19092769.0,4
+2024-06-18,EQ-016,Banyuwangi,West,12.2,5.16,Operational,51859655.0,1
+2024-11-12,EQ-027,Sulawesi,East,2.77,1.97,Wear & Tear,30233776.0,4
+2024-01-22,EQ-008,Banyuwangi,West,1.14,4.76,Wear & Tear,20840619.0,3
+2024-11-21,EQ-046,Banyuwangi,East,1.72,11.8,Electrical,28488654.0,1
+2024-01-01,EQ-025,Kalimantan,East,3.95,7.93,Mechanical,18413080.0,1
+2024-05-12,EQ-017,Kalimantan,Central,3.44,5.58,Electrical,72643708.0,1
+2024-08-20,EQ-029,Kalimantan,West,3.68,2.83,Electrical,34789016.0,2
+2024-01-12,EQ-008,Kalimantan,East,8.32,11.85,Electrical,23395948.0,4
+2024-12-11,EQ-015,Sulawesi,West,3.12,10.03,Electrical,38630588.0,2
+2024-02-15,EQ-027,Kalimantan,West,6.82,4.1,Wear & Tear,29040213.0,3
+2024-02-03,EQ-046,Banyuwangi,Central,1.77,1.77,Mechanical,60831444.0,4
+2024-03-18,EQ-050,Sulawesi,Central,11.44,1.62,Electrical,77841493.0,2
+2024-08-05,EQ-007,Kalimantan,Central,1.94,2.32,Wear & Tear,37852524.0,1
+2024-10-27,EQ-003,Banyuwangi,Central,5.11,7.39,Electrical,69577505.0,2
+2024-03-13,EQ-029,Sulawesi,Central,4.52,11.22,Hydraulic,47439731.0,1
+2024-10-08,EQ-044,Sulawesi,Central,6.44,6.46,Electrical,16792675.0,2
+2024-09-05,EQ-024,Kalimantan,Central,8.88,10.27,Electrical,56796706.0,2
+2024-02-16,EQ-003,Sulawesi,Central,3.52,5.9,Operational,43507587.0,2
+2024-04-30,EQ-020,Banyuwangi,East,9.04,8.79,Hydraulic,53795489.0,1
+2024-08-01,EQ-046,Sulawesi,West,10.92,9.05,Mechanical,71726556.0,2
+2024-08-26,EQ-015,Banyuwangi,Central,4.25,2.91,Electrical,38032593.0,4
+2024-02-25,EQ-025,Sulawesi,Central,15.77,4.97,Mechanical,72588322.0,4
+2024-12-15,EQ-030,Kalimantan,West,6.43,8.01,Hydraulic,61300176.0,4
+2024-04-16,EQ-014,Banyuwangi,East,3.81,1.78,Electrical,41645369.0,1
+2024-11-14,EQ-007,Sulawesi,West,5.36,4.98,Operational,50241660.0,1
+2024-02-17,EQ-017,Sulawesi,West,15.77,6.88,Wear & Tear,29418585.0,4
+2024-03-01,EQ-044,Sulawesi,Central,6.62,11.96,Operational,78769797.0,4
+2024-12-02,EQ-020,Banyuwangi,West,6.61,6.22,Operational,55051337.0,4
+2024-01-26,EQ-036,Banyuwangi,West,7.07,9.98,Wear & Tear,8288514.0,3
+2024-10-18,EQ-009,Banyuwangi,Central,9.58,5.75,Wear & Tear,29496643.0,4
+2024-09-13,EQ-038,Kalimantan,Central,6.53,9.76,Wear & Tear,51748583.0,2
+2024-01-08,EQ-048,Kalimantan,Central,7.74,7.55,Electrical,9224996.0,3
+2024-04-22,EQ-022,Banyuwangi,Central,5.29,10.75,Mechanical,6791314.0,3
+2024-12-20,EQ-002,Sulawesi,West,5.76,5.52,Mechanical,38751818.0,1
+2024-09-09,EQ-024,Kalimantan,West,9.94,7.65,Wear & Tear,29951763.0,2
+2024-06-28,EQ-008,Banyuwangi,East,2.67,7.93,Operational,37872396.0,1
+2024-07-25,EQ-011,Sulawesi,East,5.09,5.59,Hydraulic,24701998.0,1
+2024-10-29,EQ-013,Kalimantan,West,4.05,2.59,Wear & Tear,17353831.0,2
+2024-05-06,EQ-017,Sulawesi,East,1.35,2.03,Operational,56685752.0,1
+2024-02-25,EQ-008,Sulawesi,West,1.55,1.18,Operational,43592834.0,2
+2024-08-01,EQ-021,Sulawesi,East,5.06,10.61,Electrical,20011566.0,2
+2024-01-14,EQ-018,Sulawesi,Central,10.26,3.6,Electrical,28969207.0,1
+2024-01-28,EQ-030,Kalimantan,East,5.88,3.33,Mechanical,49385593.0,4
+2024-03-18,EQ-018,Kalimantan,Central,3.12,9.1,Mechanical,10417201.0,1
+2024-08-03,EQ-046,Kalimantan,Central,12.61,4.52,Hydraulic,16058976.0,3
+2024-12-30,EQ-047,Banyuwangi,Central,3.66,6.57,Hydraulic,10493420.0,1
+2024-06-02,EQ-031,Kalimantan,Central,2.05,2.79,Hydraulic,65923800.0,2
+2024-01-14,EQ-038,Sulawesi,East,15.94,11.56,Hydraulic,61430692.0,3
+2024-07-05,EQ-032,Kalimantan,West,5.33,10.37,Operational,61498470.0,2
+2024-11-07,EQ-011,Sulawesi,Central,14.51,10.5,Operational,58724401.0,4
+2024-01-07,EQ-045,Banyuwangi,East,4.99,5.47,Mechanical,55203907.0,4
+2024-01-03,EQ-025,Sulawesi,Central,5.08,9.39,Electrical,40774394.0,3
+2024-04-20,EQ-033,Sulawesi,East,1.29,2.58,Electrical,53170862.0,4
+2024-08-25,EQ-038,Sulawesi,East,3.58,1.09,Wear & Tear,7877117.0,4
+2024-12-28,EQ-041,Banyuwangi,East,7.09,1.22,Operational,51609832.0,1
+2024-08-26,EQ-008,Kalimantan,West,8.12,7.45,Hydraulic,63340828.0,1
+2024-09-30,EQ-011,Kalimantan,East,5.6,6.01,Hydraulic,42526877.0,4
+2024-10-20,EQ-022,Banyuwangi,East,3.96,6.7,Wear & Tear,31813500.0,4
+2024-08-14,EQ-024,Sulawesi,West,5.13,1.08,Electrical,25807005.0,1
+2024-01-15,EQ-041,Kalimantan,West,1.95,5.65,Hydraulic,53210154.0,4
+2024-07-10,EQ-017,Banyuwangi,East,13.02,8.9,Electrical,56960090.0,4
+2024-04-28,EQ-012,Kalimantan,West,8.82,5.87,Wear & Tear,70322570.0,2
+2024-01-28,EQ-046,Banyuwangi,Central,4.6,9.05,Electrical,30675056.0,4
+2024-07-20,EQ-032,Sulawesi,Central,3.44,3.56,Electrical,62732923.0,3
+2024-02-08,EQ-015,Kalimantan,West,16.6,9.94,Electrical,47101687.0,2
+2024-09-29,EQ-016,Banyuwangi,West,3.0,7.47,Hydraulic,71212737.0,3
+2024-08-18,EQ-022,Kalimantan,East,4.22,3.32,Mechanical,44585908.0,4
+2024-03-26,EQ-028,Kalimantan,West,13.38,3.6,Operational,43822237.0,1
+2024-05-05,EQ-020,Kalimantan,East,6.02,7.91,Electrical,48340781.0,2
+2024-10-26,EQ-033,Kalimantan,Central,0.98,10.13,Electrical,61198652.0,1
+2024-01-25,EQ-010,Banyuwangi,West,6.2,5.57,Electrical,77351786.0,2
+2024-05-24,EQ-040,Sulawesi,East,3.12,3.84,Mechanical,10517252.0,1
+2024-01-13,EQ-032,Banyuwangi,East,1.27,10.54,Wear & Tear,9007595.0,2
+2024-07-30,EQ-050,Banyuwangi,Central,3.25,8.36,Hydraulic,75316275.0,2
+2024-01-25,EQ-033,Banyuwangi,West,1.91,5.93,Mechanical,44740672.0,3
+2024-03-08,EQ-002,Sulawesi,Central,2.52,6.37,Electrical,51117726.0,1
+2024-03-07,EQ-033,Kalimantan,East,5.97,3.25,Mechanical,41181770.0,3
+2024-08-20,EQ-033,Kalimantan,East,1.42,7.89,Mechanical,12024309.0,3
+2024-04-18,EQ-041,Kalimantan,West,9.48,4.95,Mechanical,62606703.0,1
+2024-05-25,EQ-013,Sulawesi,East,3.92,11.95,Wear & Tear,61041848.0,2
+2024-04-20,EQ-030,Kalimantan,West,2.69,6.28,Operational,28377749.0,3
+2024-08-15,EQ-033,Sulawesi,Central,3.89,6.34,Hydraulic,27967943.0,1
+2024-04-20,EQ-013,Kalimantan,West,1.92,7.22,Wear & Tear,67838104.0,2
+2024-02-03,EQ-026,Kalimantan,West,1.92,11.08,Wear & Tear,10426794.0,3
+2024-04-20,EQ-022,Banyuwangi,East,3.65,9.81,Operational,71082886.0,3
+2024-09-20,EQ-039,Sulawesi,East,6.2,5.96,Wear & Tear,24249627.0,3
+2024-08-23,EQ-002,Banyuwangi,West,7.12,8.91,Mechanical,49473856.0,2
+2024-03-23,EQ-038,Banyuwangi,East,3.4,7.45,Mechanical,75199563.0,3
+2024-02-11,EQ-039,Banyuwangi,East,4.25,6.42,Electrical,55859188.0,2
+2024-04-10,EQ-026,Sulawesi,East,5.9,3.12,Wear & Tear,36082236.0,4
+2024-01-06,EQ-046,Sulawesi,West,13.88,6.1,Electrical,56715066.0,3
+2024-06-28,EQ-050,Kalimantan,East,5.27,3.7,Hydraulic,30798473.0,4
+2024-10-08,EQ-015,Banyuwangi,West,2.91,11.06,Mechanical,25794381.0,1
+2024-11-15,EQ-034,Kalimantan,East,2.28,4.69,Hydraulic,79751246.0,3
+2024-08-13,EQ-042,Banyuwangi,Central,9.55,11.47,Operational,61309267.0,1
+2024-11-10,EQ-044,Sulawesi,East,0.38,6.86,Mechanical,53353998.0,1
+2024-12-30,EQ-049,Sulawesi,East,3.27,7.95,Hydraulic,31646723.0,1
+2024-08-16,EQ-040,Sulawesi,West,2.27,6.97,Operational,8687062.0,4
+2024-10-15,EQ-011,Banyuwangi,West,8.73,2.42,Hydraulic,7329266.0,2
+2024-05-29,EQ-003,Sulawesi,East,11.92,5.13,Operational,46563594.0,4
+2024-10-03,EQ-006,Banyuwangi,Central,4.19,2.09,Operational,62152454.0,4
+2024-07-16,EQ-009,Kalimantan,East,2.64,7.85,Mechanical,45303439.0,1
+2024-03-10,EQ-006,Banyuwangi,East,4.5,5.92,Electrical,68058880.0,3
+2024-04-21,EQ-009,Kalimantan,Central,6.77,9.56,Operational,7506990.0,2
+2024-01-04,EQ-039,Banyuwangi,West,7.48,3.43,Operational,32506406.0,1
+2024-12-15,EQ-031,Kalimantan,East,4.5,2.81,Mechanical,22780279.0,2
+2024-11-26,EQ-032,Sulawesi,West,12.02,5.47,Electrical,38545473.0,4
+2024-11-13,EQ-041,Kalimantan,West,3.11,11.19,Wear & Tear,10428229.0,2
+2024-12-15,EQ-050,Sulawesi,Central,3.67,8.81,Wear & Tear,76559873.0,2
+2024-04-04,EQ-012,Sulawesi,Central,3.82,5.61,Electrical,21744155.0,3
+2024-05-31,EQ-008,Kalimantan,West,6.16,6.69,Hydraulic,74173083.0,1
+2024-11-06,EQ-008,Banyuwangi,East,9.14,1.93,Mechanical,36941987.0,2
+2024-05-16,EQ-050,Banyuwangi,West,1.55,11.83,Electrical,78914310.0,2
+2024-09-03,EQ-028,Banyuwangi,East,1.82,8.33,Wear & Tear,46554379.0,4
+2024-08-30,EQ-020,Banyuwangi,East,6.24,4.14,Operational,74812465.0,4
+2024-01-31,EQ-047,Banyuwangi,Central,1.87,7.44,Wear & Tear,5401174.0,2
+2024-02-09,EQ-007,Sulawesi,East,4.0,2.2,Operational,61117910.0,1
+2024-08-16,EQ-011,Banyuwangi,East,3.8,11.62,Mechanical,72728799.0,2
+2024-02-05,EQ-020,Sulawesi,West,11.13,2.92,Operational,15479043.0,2
+2024-08-10,EQ-016,Sulawesi,Central,14.69,8.13,Electrical,12209439.0,3
+2024-01-06,EQ-004,Sulawesi,East,3.34,3.7,Operational,36842946.0,1
+2024-11-17,EQ-006,Kalimantan,East,7.36,8.89,Hydraulic,75025918.0,3
+2024-08-07,EQ-022,Kalimantan,Central,3.83,9.55,Electrical,45678992.0,1
+2024-03-15,EQ-026,Sulawesi,West,8.79,8.41,Mechanical,44559235.0,1
+2024-01-04,EQ-003,Kalimantan,Central,1.82,7.76,Electrical,15584459.0,1
+2024-11-30,EQ-041,Banyuwangi,Central,10.89,10.82,Hydraulic,5059213.0,3
+2024-05-13,EQ-042,Banyuwangi,East,3.01,1.86,Mechanical,65760507.0,3
+2024-04-27,EQ-014,Sulawesi,East,1.33,4.64,Wear & Tear,11568092.0,3
+2024-04-03,EQ-011,Banyuwangi,West,3.2,3.73,Hydraulic,52538736.0,4
+2024-03-02,EQ-018,Sulawesi,East,4.05,11.87,Mechanical,73596234.0,3
+2024-07-12,EQ-012,Sulawesi,East,1.91,5.28,Operational,20648893.0,4
+2024-11-30,EQ-023,Banyuwangi,Central,4.83,9.06,Electrical,54895463.0,4
+2024-07-21,EQ-012,Kalimantan,East,8.03,8.53,Mechanical,10902393.0,4
+2024-01-26,EQ-013,Banyuwangi,West,2.48,3.33,Electrical,50281636.0,2
+2024-06-21,EQ-025,Banyuwangi,Central,13.69,3.63,Operational,17294879.0,2
+2024-10-26,EQ-045,Sulawesi,West,21.39,4.09,Mechanical,60196517.0,2
+2024-05-12,EQ-019,Sulawesi,Central,4.11,5.52,Wear & Tear,27592347.0,4
+2024-11-21,EQ-046,Sulawesi,East,7.68,3.58,Hydraulic,39754326.0,4
+2024-04-27,EQ-036,Sulawesi,Central,6.63,1.22,Mechanical,49957291.0,1
+2024-11-19,EQ-045,Kalimantan,Central,4.49,10.67,Operational,17845506.0,4
+2024-10-01,EQ-008,Kalimantan,East,4.13,11.62,Mechanical,60622836.0,2
+2024-07-30,EQ-029,Kalimantan,East,0.92,4.76,Electrical,27698026.0,4
+2024-08-12,EQ-032,Sulawesi,West,4.47,4.72,Mechanical,54677889.0,4
+2024-01-20,EQ-044,Sulawesi,West,8.71,1.08,Wear & Tear,16871229.0,1
+2024-04-22,EQ-018,Sulawesi,East,3.08,8.48,Mechanical,56608824.0,4
+2024-05-19,EQ-006,Kalimantan,East,13.45,10.08,Hydraulic,14614105.0,3
+2024-02-16,EQ-018,Sulawesi,East,6.71,2.61,Mechanical,36901737.0,1
+2024-01-01,EQ-019,Banyuwangi,Central,10.91,2.76,Electrical,23540456.0,4
+2024-03-30,EQ-022,Banyuwangi,Central,4.2,9.69,Mechanical,61128144.0,4
+2024-05-21,EQ-037,Sulawesi,Central,5.64,7.78,Wear & Tear,24652625.0,1
+2024-11-15,EQ-032,Banyuwangi,East,7.56,1.49,Operational,71128798.0,4
+2024-02-07,EQ-041,Banyuwangi,West,3.82,7.85,Mechanical,71886516.0,2
+2024-10-19,EQ-003,Kalimantan,East,10.54,4.4,Mechanical,19733099.0,3
+2024-05-18,EQ-028,Sulawesi,Central,3.15,5.06,Hydraulic,51038446.0,3
+2024-12-21,EQ-010,Sulawesi,Central,16.91,9.47,Wear & Tear,11578823.0,2
+2024-11-28,EQ-035,Kalimantan,East,1.77,9.92,Operational,34365282.0,4
